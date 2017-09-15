@@ -1,5 +1,3 @@
-import jQuery from 'jquery';
-
 (function ($) {
   $(() => {
     // Nav Drawer
