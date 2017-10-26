@@ -1,4 +1,4 @@
-()(
+(
   window.onload = (event) => {
     const widget = document.getElementById('widget');
     widget.innerHTML += '<a href="https://www.google.com" ><button type="primary">Book Now</button></a>';
