@@ -1,0 +1,319 @@
+
+/*------------------------------------------------------------------
+CUSTOM CSS 
+-------------------------------------------------------------------*/
+/*------------------------------------------------------------------
+Theme
+-------------------------------------------------------------------*/
+
+body {
+    font-family: 'Roboto', 'Helvetica Neue', sans-serif;
+    color:#3a3a3a;
+}
+
+.accent-text {
+    color: #2196F3 !important;
+}
+.accent-color {
+    background-color: #2196F3 !important;
+}
+.accent-border {
+    border-color: #2196F3 !important;
+}
+.primary-text {
+    color: #09091A !important;!important;
+}
+.primary-color {
+    background-color: #3a3a3a !important;
+}
+.primary-border {
+    border-color: #2196F3 !important;
+}
+.grey-blue {
+    background-color: #f1f4f5;
+}
+.dark{
+	background-color: #09091A !important;
+}
+.dark-text{
+	color: #09091A !important;
+}
+.text-color {
+    color: #3a3a3a !important;
+}
+.text-light {
+    color: #B2B2B4 !important;
+}
+.book-btn.btn-flat:active, .book-btn.btn-flat:hover, .book-btn.btn-flat:focus{
+	background: #2196F3 !important /* accent-color */;
+}
+.lean-overlay {
+}
+
+.brand-text{
+	font-family: Baloo, cursive !important;
+}
+
+h1, h2, h3, h4, h5, h6, .uppercase{
+	color:#09091A !important;
+}
+
+.dark h1, .dark h2, .dark h3, .dark h5, .dark h6, .dark .uppercase, .dark .profile-link{
+	color:rgba(255, 255, 255, 1) !important;
+}
+.dark .profile-link .user-name{
+	line-height: 1.2;
+}
+
+.dark .profile-link .user-balance small{
+	color: rgba(255, 255, 255, .75) !important;
+	font-weight: 400;
+	font-size: 9px !important;
+	margin-left:2px;
+	vertical-align: baseline;
+}
+
+/*------------------------------------------------------------------
+Customized Classes
+-------------------------------------------------------------------*/
+.dark .open-left{
+	border-right:1px solid rgba(255, 255, 255, .2);
+}
+.trips{
+	padding:8px 16px 48px !important;
+	margin-left: auto !important;
+	margin-right: auto !important;
+}
+.shop-category {
+    width: 100%;
+    padding: 0;
+    margin: 8px 0;
+    display: inline-block;
+}
+@media (min-width:481px)  { 
+	 .shop-category {
+		 max-width: 320px; 
+		 margin:8px;
+		 display: inline-block;}
+	.trips{
+		padding:40px 0 120px;
+	}}
+		 
+.category-preview{
+	background: white;
+	padding: 20px 20px 30px;
+}
+
+
+.modal.bottom-sheet {
+	max-height: none;
+}
+
+.checkout-image{
+	float:left;
+	margin-right: 12px;
+	border-radius: 50%;
+	width: 56px;
+}
+
+.price{
+	font-size: 21px;
+}
+
+#toolbar-checkout {
+    width: 100%;
+    height: 56px;
+    position: fixed;
+    z-index: 1;
+    top: 0;
+    left: 0;
+    right: 0;
+}
+#toolbar-checkout i {
+    font-size: 24px;
+    line-height: 56px;
+    color: #fff;
+}
+#toolbar-checkout .title {
+    font-size: 22px;
+    font-weight: 300;
+    color: #fff;
+    line-height: 56px;
+    margin-left: 16px;
+    text-transform: none;
+    letter-spacing: normal;
+}
+.checkout-product-title{
+	margin-left: 72px;
+	padding-top: 8px;
+}
+.checkout-product-title h6{
+	font-size: 15px;
+}
+
+.bottom-sheet .modal-header{
+	padding:16px 20px;
+}
+.bottom-sheet .modal-content{
+	padding:16px 20px !important;
+}
+.bottom-sheet .modal-footer{
+	padding:16px 20px !important;
+	height: auto;
+	background:#f1f4f5 /* grey-blue */;
+}
+.bottom-sheet .form-inputs{
+	padding:10px 0 20px;
+}
+
+.bottom-sheet .form-inputs .checkbox-standalone {
+	margin:20px 0;
+	}
+/*------------------------------------------------------------------
+NEW CSS 
+-------------------------------------------------------------------*/
+
+.nav-footer{
+	position: absolute;
+	bottom:60px; 
+	left:0; 
+	width: 100%; 
+	padding:0 20px !important;
+}
+.nav-footer a{
+	font-size:.85rem !important;
+}
+.product-listing{
+padding: 8px 16px 48px;
+}
+.profile-link{
+	line-height: inherit !important;
+	height: auto !important;
+}
+
+.search-link{
+	float: right;
+    height: 56px;
+    line-height: 56px;
+    width: 56px;
+    text-align: center;
+    position: relative;
+    border-left:1px solid rgba(255, 255, 255, .2);
+}
+
+/* Listing */
+
+
+.list-item {
+    margin: 0;
+    padding: 20px 0;
+    border-bottom: 1px solid #eee;
+    position: relative;
+}
+
+.list-item:last-child{
+	border:none;	
+}
+
+.list-item p {
+    margin: 0;
+}
+
+.list-title{
+ margin: 0 0 2px !important;
+ font-weight: 600;
+}
+.list-subtitle{
+ margin:0 !important;
+ color:#b2b2b4;
+ font-weight: 400;
+ font-size: .9em;
+}
+
+.list-subtitle span,
+.list-subtitle i {
+    vertical-align: middle;
+}
+
+.list-item .book-btn{
+	margin:20px 0; 
+	position: absolute; 
+	right:0; 
+	top:0;
+}
+.list-item.disabled{
+	color:#b2b2b4 !important;
+}
+
+.list-item.disabled .btn-flat{
+	background-color:#b2b2b4 !important;
+	pointer-events: none !important;
+	color:#fff !important;
+}
+.p-0{padding:0 !important;}
+
+.input-datepicker{
+	margin:0;
+}
+
+input.date-picked{
+	font-weight: 600;
+	font-size: 15px;
+	text-transform: uppercase;
+	border: 1px solid #2196F3;
+	border-radius: 2px;
+	background: white !important;
+	text-align: left;
+	color:#2196F3;
+	padding-left: 12px;
+	width: calc(100% - 15px);
+	margin:0;
+}
+
+.input-datepicker label i{
+	position: absolute;
+	right:32px;
+	float:right;
+	font-size: 32px;
+}
+
+.rounded{
+	border-radius: 4px !important
+}
+.sep{
+	margin:0 3px !important;
+	font-weight: 900;
+}
+.caps{
+	text-transform: uppercase !important;
+}
+.width-70{
+	width: 70% !important;
+}
+.fade-text{
+	opacity: .8 !important;
+}
+.alert-text{
+	color:#F44336 !important;
+}
+.border-white{
+	border:1px solid rgba(255, 255, 255, 1);
+}
+.border-light{
+	border:1px solid rgba(255, 255, 255, .8);
+}
+.border-bottom-light{
+	border-bottom: 1px solid rgba(255, 255, 255, .8);
+}
+
+
+/*------------------------------------------------------------------
+MEDIA QUERIES 
+-------------------------------------------------------------------*/
+
+@media (min-width:320px)  { /* smartphones, iPhone, portrait 480x320 phones */ }
+@media (min-width:481px)  { /* portrait e-readers (Nook/Kindle), smaller tablets @ 600 or @ 640 wide. */ }
+@media (min-width:641px)  { /* portrait tablets, portrait iPad, landscape e-readers, landscape 800x480 or 854x480 phones */ }
+@media (min-width:961px)  { /* tablet, landscape iPad, lo-res laptops ands desktops */ }
+@media (min-width:1025px) { /* big landscape tablets, laptops, and desktops */ }
+@media (min-width:1281px) { /* hi-res laptops and desktops */ }
