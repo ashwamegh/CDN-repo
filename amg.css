@@ -17,8 +17,8 @@ div#main {
 
 /* Streams Page */
 
-.stream_info_table_body button.btn,
-.dvr_info_table_body button.btn {
+#stream_info_table_body button.btn,
+#dvr_info_table_body button.btn {
 	background-color: transparent !important;
 }
 
