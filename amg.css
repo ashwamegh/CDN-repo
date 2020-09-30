@@ -9,3 +9,27 @@ body {
 .dashboard-content {
   padding: 0 !important;
 }
+
+div.main {
+	background-color: transparent !important;
+}
+
+
+/* Streams Page */
+
+.stream_info_table_body button.btn,
+.dvr_info_table_body button.btn {
+	background-color: transparent !important;
+}
+
+button#add_rpi,
+button#add_dvr,
+button#delete_dvr,
+button#add_stream,
+button#start_stream,
+button#stop_stream,
+button#delete_stream {
+	margin: 4px 12px;
+	border-radius: 4px;
+}
+
