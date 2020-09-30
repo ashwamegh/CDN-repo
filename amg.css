@@ -10,7 +10,7 @@ body {
   padding: 0 !important;
 }
 
-div.main {
+div#main {
 	background-color: transparent !important;
 }
 
