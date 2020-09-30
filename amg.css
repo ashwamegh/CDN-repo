@@ -1,5 +1,32 @@
+/* Color Adjustments */
+
 body {
   background-color: transparent !important;
+}
+
+div#main {
+	background-color: transparent !important;
+}
+
+
+#stream_info_table_body button.btn,
+#dvr_info_table_body button.btn {
+	background-color: transparent !important;
+}
+
+/* Layout spacing adjustments */
+
+.dashboard-main-wrapper {
+	padding: 0;
+}
+
+section {
+	padding: 0;
+}
+
+container {
+	padding: 0;
+	margin: 0;
 }
 
 .dashboard-wrapper {
@@ -10,17 +37,7 @@ body {
   padding: 0 !important;
 }
 
-div#main {
-	background-color: transparent !important;
-}
-
-
-/* Streams Page */
-
-#stream_info_table_body button.btn,
-#dvr_info_table_body button.btn {
-	background-color: transparent !important;
-}
+/* Overwritten Button Styles */
 
 button#add_rpi,
 button#add_dvr,
