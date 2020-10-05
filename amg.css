@@ -6,6 +6,7 @@ body {
 
 div#main {
 	background-color: transparent !important;
+	padding: 0 !important;
 }
 
 
