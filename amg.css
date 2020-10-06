@@ -2,6 +2,7 @@
 
 body {
   background-color: transparent !important;
+  padding: 40px;
 }
 
 div#main {
@@ -51,3 +52,11 @@ button#delete_stream {
 	border-radius: 4px !important;
 }
 
+
+/** MEDIA QUERIES **/
+
+@media (min-width: 1200px) {
+	.container {
+		max-width: 90%;
+	}
+}
