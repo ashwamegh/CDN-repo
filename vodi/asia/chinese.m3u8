@@ -1750,7 +1750,7 @@ http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
 #EXTINF:-1 ,TKR (Ryazan)
 http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
 #EXTINF:-1 ,TNT
-https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2.b43uplay
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2fb46/playlist.m3u8
 #EXTINF:-1 ,Three Angels
 https://hls.tv.3angels.ru/stream/HQ.m3u8
 #EXTINF:-1 ,SEC ALEX
@@ -1865,6 +1865,7 @@ http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-dessau_high/playlist.m3u8
 #EXTINF:-1, Germany OK Magdeburg
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-magdeburg_high/playlist.m3u8
 #EXTINF:-1, Germany OK Merseburg-Querfurt
+http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-merseburg_high/playlist.m3u8	
 #EXTINF:-1, Germany OK Salzwedel
 http://58bd5b7a98e04.streamlock.net/medienasa-live/ok-salzwedel_high/playlist.m3u8
 #EXTINF:-1, Germany OK Stendal
@@ -1888,7 +1889,7 @@ https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/chunklist.m
 #EXTINF:-1, Germany rheinmaintv
 https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8
 #EXTINF:-1, Germany rheinmaintv
-https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&ref=www.rheinmaintv.de&seid=598541
+https://586fb512206e4.streamlock.net/rheinmaintv-live/mp4:livestream/playlist.m3u8?=&amp;ref=www.rheinmaintv.de&amp;seid=598541	
 #EXTINF:-1, Germany Tide TV
 https://5889e7d0d6e28.streamlock.net/tide-live/smil:livestream.smil/playlist.m3u8
 #EXTINF:-1, Baden TV, Germany
@@ -1939,7 +1940,7 @@ http://cdnmg.secure.live.rtr-vesti.ru/vgtrkrtmp/smil:kaluga_r1.smil/playlist.m3u
 http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8
 http://cdnmg.secure.live.rtr-vesti.ru/live/smil:r24.smil/playlist.m3u8
 #EXTINF:-1, Russian Federation Росия К
-#EXTINF:-1, France Francophonie
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist.m3u8	
 #EXTINF:-1, Russian Federation С1 (Сургут) [Not 24/7
 https://sitv.ru/hls/stv.m3u8
 #EXTINF:-1, Russian Federation Самара ГИС [Not 24/7
@@ -1954,6 +1955,7 @@ http://tvcom.stream.intelema.ru/tvcom/studio/playlist.m3u8
 http://live-ratnik.cdnvideo.ru/ratnik/ratnik.sdp/playlist.m3u8
 #EXTINF:-1, Russian Chinese-HD
 http://brics.bonus-tv.ru/cdn/brics/chinese/tracks-v1a1/index.m3u8
+#EXTINF:-1, France Francophonie
 http://mv2.tvfrancophonie.org/live/Stream1/playlist.m3u8
 #EXTINF:-1, 24 English in France
 http://static.france24.com/live/F24_EN_LO_HLS/live_web.m3u8
