@@ -804,7 +804,6 @@ https://bloomberg-bloombergtv-1-it.samsung.wurl.com/manifest/playlist.m3u8
 https://bloomberg-bloombergtv-1-gb.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1, Bloomberg TV+ UHD
 https://bloomberg-bloombergtv-1-es.samsung.wurl.com/manifest/playlist.m3u8
-http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 #EXTINF:-1, BNN Bloomberg HD CA
 http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6465/index.m3u8
 #EXTINF:-1, Boishakhi TV (1080p)
@@ -897,7 +896,6 @@ http://d2e1asnsl7br7b.cloudfront.net/7782e205e72f43aeb4a48ec97f66ebbe/index_5.m3
 https://tglmp03.akamaized.net/out/v1/435d5ae6f4734fde963642147a852bfb/manifest.mpd
 #EXTINF:-1, ChannelUHD
 https://tglmp03.akamaized.net/out/v1/1057d89ee3d94148b430b5866e3a540a/manifest.mpd
-https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,Charge! USAHD
 https://usgeowall.sinclairstoryline.com/channel/37eb732888614810b512fdd82604244e.m3u8
 #EXTINF:-1,Charge!HD
@@ -929,7 +927,6 @@ http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6501/index.m3u8
 #EXTINF:-1, CRACKLE PlexTVHD
 https://crackle-plex.amagi.tv/playlist.m3u8
 #EXTINF:-1, CRACKLE-HD
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 http://crackle-xumo.amagi.tv/playlist.m3u8
 #EXTINF:-1, CTV News Channel HD CA
 http://vasilius.akciatv.ru/iptv/RGD5Y7ZWRWP4UK/6468/index.m3u8
@@ -940,7 +937,7 @@ http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&c
 #EXTINF:-1, Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1, Dubai Racing 3
-http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8	
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8
 #EXTINF:-1, Dubai Sports 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,DUBAI SPORTS 2 (1920×1080)
@@ -1042,7 +1039,7 @@ https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
 #EXTINF:-1, Hidabroot
 https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 #EXTINF:-1, Himlen TV 7
-http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8	
+http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
 #EXTINF:-1 ,Himlen TV7 (SE)
 http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
 #EXTINF:-1, Himlen TV7
@@ -1253,7 +1250,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1,PBS World ChannelHD
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1,PBSWorld Channel
-https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8	
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
 #EXTINF:-1 ,PIX11 (New York)
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 #EXTINF:-1 ,QVTV
@@ -1639,13 +1636,152 @@ https://video.penzainform.ru/e/r1018.m3u8
 #EXTINF:-1 ,Radio Says Moscow (Webcam) [RU]
 https://video.govoritmoskva.ru/rufm/index.m3u8
 #EXTINF:-1 , Radio Hit (Orsk)
-http://hithd.camsh.orsk.ru/hls/hithd.m3u8
-#EXTINF:-1 ,Radio Says Moscow
 http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
 #EXTINF:-1 , radio Hit TV
 http://hithd.camsh.orsk.ru/hls/hit.m3u8
 #EXTINF:-1 ,Radio Chanson
 http://chanson-video.hostingradio.ru:8080/hls/chanson
+#EXTINF:-1 ,Warrior
+https://online-video.rbc.ru/online/rbctv.m3u8
+#EXTINF:-1 ,RBC
+http://e2.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
+#EXTINF:-1 ,RBC
+http://e3.online.video.rbc.ru/online2/rbctv_576p/index.m3u8
+#EXTINF:-1 ,RBC
+http://e6.online.video.rbc.ru/online2/rbctv_480p/index.m3u8
+#EXTINF:-1 ,RBC
+http://online.video.rbc.ru/online/rbctv_480p/index.m3u8
+#EXTINF:-1 ,RBC
+http://online.video.rbc.ru/online/rbctv_576p/index.m3u8
+#EXTINF:-1 ,RBC
+http://online-video.rbc.ru/online/rbctv_480p/index.m3u8?e=e8&t=IbzcGc
+#EXTINF:-1 ,RBC
+http://uiptv.do.am/1ufc/701293058/playlist.m3u8
+#EXTINF:-1 , REN TV
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/chunklist_b1024000.m3u8
+#EXTINF:-1 , REN TV
+http://ad-hls-rentv.cdnvideo.ru/ren/smil:ren.smil/playlist.m3u8
+#EXTINF:-1 , REN TV
+http://uiptv.do.am/1ufc/102323759/playlist.m3u8
+#EXTINF:-1 , Russia 24 (N.Novgorod)
+https://live-vestinn.cdnvideo.ru/vestinn/vestinn/playlist.m3u8
+#EXTINF:-1 , Russia 24 (Sochi)
+http://sochi.camera:8080/cam_256/playlist.m3u8
+#EXTINF:-1 , Russia 24
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_24/playlist_3.m3u8
+#EXTINF:-1 , Russia 24
+https://uiptv.do.am/1ufc/000000006/playlist.m3u8
+#EXTINF:-1 , Russia K
+http://cdnmg.secure.live.rtr-vesti.ru/hls/russia_k/playlist_3.m3u8
+#EXTINF:-1 , Russia RTR
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist.m3u8
+#EXTINF:-1 ,Rostov-dad HD
+http://live-rostovpapa.cdnvideo.ru/rostovpapa/rostovpapa.sdp/playlist.m3u8
+#EXTINF:-1 ,RTR-Planet
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,RTR-Planet
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/chunklist_b800000.m3u8
+#EXTINF:-1 ,RTR-Planet
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:rtrp.smil/playlist_3.m3u8
+#EXTINF:-1 ,Russian Detective
+http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/907/index.m3u8
+#EXTINF:-1 ,С1 (Surgut)
+https://sitv.ru/hls/stv1024.m3u8
+#EXTINF:-1 Salam
+https://bsttv.bonus-tv.ru/cdn/salyam/playlist.m3u8
+#EXTINF:-1 ,Samara GIS
+http://45.67.57.9:8080/new/new/tracks-v1a1/index.m3u8
+#EXTINF:-1 , Saratov 24
+http://saratov24.tv:80/online/playlist.php
+#EXTINF:-1 ,Svarozhychi
+http://80.91.177.102:1935/live/live1/playlist.m3u8
+#EXTINF:-1 ,Svarozhychi
+http://tv.tv-project.com:1935/live/live1/playlist.m3u8
+#EXTINF:-1 ,North (Naryan-Mar)
+https://live.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 ,North (Naryan-Mar)
+https://live2.mediacdn.ru/sr1/sever/playlist.m3u8
+#EXTINF:-1 ,North (Naryan-Mar)
+https://live2.mediacdn.ru/sr1/sever-mobile/playlist.m3u8
+#EXTINF:-1 ,Selenga TV
+http://90.188.37.86/live/playlist.m3u8
+#EXTINF:-1 ,SK1
+http://cdn10.live-tv.od.ua:8081/sk1zt/sk1zt720p/playlist.m3u8
+#EXTINF:-1 ,Soyuz
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 ,Soyuz
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8?version=2
+#EXTINF:-1 ,Soyuz
+http://tvsoyuz.cdnvideo.ru/tvsoyuz/soyuz/playlist.m3u8
+#EXTINF:-1 ,Spas
+http://spas.mediacdn.ru/cdn/spas/tracks-v1a1/mono.m3u8
+#EXTINF:-1 ,Country FM
+http://live.stranafm.cdnvideo.ru/stranafm/stranafm_hd.sdp/playlist.m3u8
+#EXTINF:-1 ,Scary HD
+http://spacetv.in/stream/DIPK8H19CP8/226.m3u8
+#EXTINF:-1 ,STRK
+http://sochinskayatrk.ru/hdtv/hls/strc_hd/playlist.m3u8
+#EXTINF:-1 ,STS
+http://spacetv.in/stream/DVB2D6AE8CU/138.m3u8
+#EXTINF:-1 ,TV Center
+http://uiptv.do.am/1ufc/000000009/playlist.m3u8
+#EXTINF:-1 ,TV Extra
+http://live-1.otcnet.ru:80/tvextra720b/index.m3u8
+#EXTINF:-1 ,TVA (Chernivtsi)
+http://hls.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 ,TVA (Chernivtsi)
+http://rtsp.cdn.ua/tva.ua_live/_definst_/livestream/playlist.m3u8
+#EXTINF:-1 ,TVA Chernivtsi
+http://hls.cdn.ua/tva.ua_live/livestream/chunklist_w396178779.m3u8
+#EXTINF:-1 ,TVC (International)
+http://ad-hls-tvc.cdnvideo.ru/tvc-p222/smil:tvc.smil/chunklist_b1682100.m3u8
+#EXTINF:-1 , Channel 86 (Surgut)
+https://sitv.ru/hls/s861024.m3u8
+#EXTINF:-1 , Telplus TV (Astrakhan)
+http://streaming.astrakhan.ru/telplushd/tracks-v1a1/index.m3u8
+#EXTINF:-1 ,TIS TV
+http://cdn10.live-tv.od.ua:8081/riood/tisod504/playlist.m3u8
+#EXTINF:-1 ,ТІС TV (Odessa)
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr-lq/riood/tisod504/playlist.m3u8
+#EXTINF:-1 ,ТІС TV
+http://cdn10.live-tv.od.ua:8081/riood/tisod-abr/riood/tisod504/playlist.m3u8
+#EXTINF:-1 ,TKR (Ryazan)
+http://live.tkr.cdnvideo.ru/tkr/tkr.sdp/playlist.m3u8
+#EXTINF:-1 ,TNT
+https://bl.uma.media/live/410338/HLS/6307840_7,4280320_6,2703360_5,1408000_4,1070080_3,732160_2,394240_1/1613013807/79ad96b5b87fdce129191b83aaf2.b43uplay
+#EXTINF:-1 ,Three Angels
+https://hls.tv.3angels.ru/stream/HQ.m3u8
+#EXTINF:-1 ,SEC ALEX
+http://46.46.112.223/live/livestream1.m3u8
+#EXTINF:-1 ,Fan Sport.
+https://live-k2309-kbp.1plus1.video/sport/smil:sport.smil/chunklist_b6000000.m3u8
+#EXTINF:-1 , Khabar 24
+http://serv30.vintera.tv:8081/habar/habar24/playlist.m3u8
+#EXTINF:-1 , Khabar 24
+https://live-24kz.cdnvideo.ru/24kz/24kz.sdp/playlist.m3u8
+#EXTINF:-1 ,Khuzur TV
+http://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1//chunklist.m3u8
+#EXTINF:-1 ,Khuzur TV
+https://hls-mycdn08724960135.cdnvideo.ru/mycdn08724960135/stream1/playlist.m3u8
+#EXTINF:-1 , Chernivtsi Promin
+https://langate.tv/promin/live_720/index.m3u8
+#EXTINF:-1 ,Chanson TV (512p)
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.sdp/playlist.m3u8
+#EXTINF:-1 ,Chanson TV
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv.smil/playlist.m3u8
+#EXTINF:-1 ,Chanson TV
+http://hls.shansontv.cdnvideo.ru/shansontv/shansontv_hq.sdp/playlist.m3u8
+#EXTINF:-1 ,Chanson TV
+http://uiptv.do.am/1ufc/602079679/playlist.m3u8
+#EXTINF:-1 ,Chanson TV
+https://hls-shansontv.cdnvideo.ru/shansontv/smil:shansontv.smil/playlist.m3u8
+#EXTINF:-1 ,Shocking HD
+http://spacetv.in/stream/DIPK8H19CP8/75.m3u8
+#EXTINF:-1 , Shchyolkovskoye TV
+http://stream0.tv41.ru/live.m3u8
+#EXTINF:-1 ,Echo TV (Ryazan)
+https://live-echotv.cdnvideo.ru/echotv/echotv.sdp/playlist.m3u8
+#EXTINF:-1 ,Yuvelirochka TV
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 , Bahrain Sports
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
