@@ -254,9 +254,6 @@ http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
 #EXTINF: -1 ,[Slovakia]TVRužinov (1080p)
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 #EXTINF:-1,[Tunisia]SahelTV(720p)
-http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
-#EXTINF:-1,[Slovakia]TVRužinov(1080p)
-#EXTINF:-1,[Turkey]OLAYTÜRKTV
 http://142.44.214.231:1935/saheltv/myStream/playlist.m3u8
 #EXTINF:-1,[TunisieImmobilierTV
 https://5ac31d8a4c9af.streamlock.net/tunimmob/myStream/chunklist.m3u8
@@ -270,6 +267,7 @@ https://waw2.artiyerelmedya.net/grt/bant1/chunks.m3u8
 http://wowza.istweb.tv:1935/webtv/webtv_wowza1/playlist.m3u8
 #EXTINF:-1,[Turkey]KentTürk
 https://waw2.artiyerelmedya.net/38kenttv/bant1/playlist.m3u8
+#EXTINF:-1,[Turkey]OLAYTÜRKTV
 https://waw2.artiyerelmedya.net/olayturk/bant1/playlist.m3u8
 #EXTINF:-1,[Turkey]TV41
 https://waw1.artiyerelmedya.net/tv41/bant1/playlist.m3u8
@@ -1237,23 +1235,23 @@ https://outside-tv.samsung.wurl.com/manifest/playlist.m3u8
 https://outside-tv-samsung-ca.samsung.wurl.com/manifest/playlist.m3u8
 #EXTINF:-1,PamirTV
 http://live.stream.cdn.pamirtv.com/ptv/d0dbe915091d400bd8ee7f27f0791303.sdp/index.m3u8
-#EXTINF:-1,PBS 39 Extra Philadelphi
+#EXTINF:-1,PBS 39 Extra Philadelphia
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/HasBahCa.m3u8
-#EXTINF:-1 ,PBS Allentown PA
+#EXTINF:-1,PBS Allentown PA
 https://forerunnerrtmp.livestreamingcdn.com/output18/output18.stream/playlist.m3u8
 #EXTINF:-1, PBS Extra Philadelphia P
 https://forerunnerrtmp.livestreamingcdn.com/output18-2/output18-2.stream/playlist.m3u8
 #EXTINF:-1, PBS Kids Eastern/Central
 https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
-#EXTINF:-1,PBS World ChannelHD
+#EXTINF:-1, PBS World ChannelHD
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
-#EXTINF:-1,PBSWorld Channel
+#EXTINF:-1, PBSWorld Channel
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8
-#EXTINF:-1 ,PIX11 (New York)
+#EXTINF:-1, PIX11 (New York)
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
-#EXTINF:-1 ,QVTV
+#EXTINF:-1, QVTV
 https://qvmstream.tulix.tv/720p/720p/chunklist_w1600218747.m3u8
-#EXTINF:-1 ,QVTV
+#EXTINF:-1, QVTV
 https://qvmstream.tulix.tv/720p/720p/playlist.m3u8
 #EXTINF:-1,RadioPROS
 https://558bd16067b67.streamlock.net/radiopros/livestream/playlist.m3u8
@@ -1265,7 +1263,7 @@ https://rt-rtd.rttv.com/live/rtdoc/playlist.m3u8
 https://rt-glb.rttv.com/live/rtnews/playlist.m3u8
 #EXTINF:-1 ,RTP
 http://136.243.3.70:1935/RtpBolivia/RtpBolivia/playlist.m3u8
-#EXTINF:-1 ,RTVBPK
+#EXTINF:-1, RTVBPK
 https://webtvstream.bhtelecom.ba/gorazde_cam2.m3u8
 #EXTINF:-1, RuidosFM
 https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
@@ -1273,13 +1271,13 @@ https://593b04c4c5670.streamlock.net:443/8038/8038/playlist.m3u8
 https://uiptv.do.am/1ufc/300663722/playlist.m3u8
 #EXTINF:-1, SardariTV
 http://158.69.124.9:1935/sardaritv/sardaritv/playlist.m3u8
-#EXTINF:-1 ,seky-k
+#EXTINF:-1, seky-k
 https://srv1.zcast.com.br/kpoptv/kpoptv/.m3u8
 #EXTINF:-1, SET Televisión Canal 26.
 http://189.240.210.28:1935/live/setpuebla/playlist.m3u8
-#EXTINF:-1,Sky 1 Racing
+#EXTINF:-1, Sky 1 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky1.m3u8
-#EXTINF:-1,Sky 2 Racing
+#EXTINF:-1, Sky 2 Racing
 https://skylivetab-i.akamaihd.net/hls/live/569779/tablive/sky2.m3u8
 #EXTINF:-1, Sky Folk TV
 http://eu.live.skyfolk.mk/live.m3u8
