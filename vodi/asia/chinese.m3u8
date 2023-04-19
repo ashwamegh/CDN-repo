@@ -101,7 +101,6 @@ http://cdn.universmotri.ru/live/mq.sdp/playlist.m3u8
 http://air.tvk6.ru/tvk24/playlist.m3u8
 #EXTINF:-1,[Colombia]TVGracia(720p)
 https://streamyes.alsolnet.com/tvgracia/live/playlist.m3u8
-#EXTINF:-1,[Netherlands]OmroepP&M(480p)[]854*480[]854*480<TAG1>
 #EXTINF:-1,[Costa Rica]Canal88Stereo
 http://k3.usastreams.com:1935/CableLatino/88stereo/chunklist_w1223558379.m3u8
 #EXTINF:-1,[Netherlands]MeerTV(720p)
@@ -112,6 +111,7 @@ http://593aed234297b.streamlock.net/meervandaag/meervandaag/chunklist_w733465808
 https://ms7.mx-cd.net/tv/113-474263/EdeTV.smil/playlist.m3u8
 #EXTINF:-1,[Netherlands]OmroepOnsWestBrabant(480p)[856*480][856*480]
 https://ms2.mx-cd.net/tv/177-710139/Ons_West_Brabant_TV.smil/playlist.m3u8
+#EXTINF:-1,[Netherlands]OmroepP&M(480p)[]854*480[]854*480<TAG1>
 https://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/chunklist.m3u8
 #EXTINF:-1,[Netherlands]OmroepP&M(480p)[]854*480[]854*480<TAG1>
 https://ms7.mx-cd.net/tv/153-840564/Omroep_Peel_en_Maas_TV.smil/playlist.m3u8
@@ -2335,7 +2335,6 @@ http://103.199.161.254/Content/people/Live/Channel(People)/index.m3u8
 http://103.199.161.254/Content/kairali/Live/Channel(Kairali)/index.m3u8
 #EXTINF:-1, Kairali We, India
 http://103.199.161.254/Content/we/Live/Channel(We)/index.m3u8
-#EXTINF:-1, India MK TV
 #EXTINF:-1, Kalaignar, India
 http://103.199.161.254/Content/kalaignartv/Live/Channel(KalaignarTV)/index.m3u8
 #EXTINF:-1, India Kappa TV
