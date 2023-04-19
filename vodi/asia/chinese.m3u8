@@ -8,7 +8,7 @@ http://198.16.64.10:8278/tvbs_n/playlist.m3u8?tid=MA4A2233260122332601&ct=19249&
 #EXTINF:-1 ,TheK-POP
 http://198.16.64.10:8278/jthekpop_korea/playlist.m3u8?tid=MCCC8163723981637239&ct=19225&tsum=53c895b4be81be369500a38192516c6b
 #EXTINF:-1 ,RHK32
-http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc3677d02ebf83b4d558d33
+http://198.16.64.10:8278/rhk32_twn/playlist.m3u8?tid=MDBD4704174447041744&ct=19249&tsum=763ebe53fc33677d02ebf83b4d558d33
 #EXTINF:-1, MBC
 http://198.16.64.10:8278/mbc_korea/playlist.m3u8?tid=MEAE9573382995733829&ct=19225&tsum=a0b7c980377ecbf15c1c9b8ae93b82aa
 #EXTINF:-1, iNews News Channel
@@ -250,6 +250,8 @@ https://bcsecurelivehls-i.akamaihd.net/hls/live/1021447/6203311941001/index.m3u8
 #EXTINF:-1,[Slovakia]TeleviziaOSEM(360p)[640*360][640*360]
 http://109.74.145.11:1935/tv8/mp4:tv8.stream_360p/playlist.m3u8
 #EXTINF:-1,[Slovakia]TelevíziaOSEM(576p)
+http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
+#EXTINF: -1 ,[Slovakia]TVRužinov (1080p)
 http://lb.streaming.sk/tvruzinov/stream/playlist.m3u8
 #EXTINF:-1,[Tunisia]SahelTV(720p)
 http://109.74.145.11:1935/tv8/ngrp:tv8.stream_all/playlist.m3u8
@@ -481,6 +483,7 @@ https://abcnews-streams.akamaized.net/hls/live/2023564/abcnews5/master.m3u8
 #EXTINF:-1, ABC News Live 6
 https://abcnews-streams.akamaized.net/hls/live/2023565/abcnews6/master.m3u8
 #EXTINF:-1, ABC News Live 7
+https://abcnews-streams.akamaized.net/hls/live/2023566/abcnews7/master.m3u8
 #EXTINF:-1, ABC News Live 8
 https://abcnews-streams.akamaized.net/hls/live/2023567/abcnews8/master.m3u8
 #EXTINF:-1, ABC News Live 9
@@ -811,6 +814,7 @@ https://video1.getstreamhosting.com:1936/8224/8224/playlist.m3u8
 #EXTINF:-1, Boogle Bollywood
 http://live.agmediachandigarh.com/booglebollywood/774e3ea9f3fa9bcdac47f445b83b6653.sdp/index.m3u8
 #EXTINF:-1, BossBrothersTV
+http://51.254.199.122:8080/bossbrothersTV/index.m3u8
 #EXTINF:-1,Brat TV
 https://brat-rakuten.amagi.tv/playlist.m3u8
 #EXTINF:-1,BRT
@@ -903,6 +907,7 @@ https://circle-roku.amagi.tv/playlist.m3u8
 #EXTINF:-1, CityNews
 https://5e7c60955a878.streamlock.net/rtv_live/m31_card3/playlist.m3u8
 #EXTINF:-1,Clarity 4K
+https://d3thiix3tzne5u.cloudfront.net/v1/master/3722c60a815c199d9c0ef36c5b73da68a62b09d1/ClarityTV4K2-prod/playlist.m3u8?ads.device_did=%7BPSID%7D&ads.device_dnt=%7BTARGETOPT%7D&ads.us_privacy=1YNY&ads.app_domain=%7BAPP_DOMAIN%7D&ads.app_name=%7BAPP_NAME%7D
 #EXTINF:-1,CLARITY4K
 https://d3thiix3tzne5u.cloudfront.net/playlist.m3u8
 #EXTINF:-1, CNAews-HD（Singapore）
@@ -935,6 +940,7 @@ http://50.7.220.74:8278/discoverych_twn/playlist.m3u8?tid=MA3A2844188928441889&c
 #EXTINF:-1, Dubai Racing 2
 http://dmithrvll.cdn.mangomolo.com/dubairacing/smil:dubairacing.smil/chunklist_b1600000.m3u8
 #EXTINF:-1, Dubai Racing 3
+http://dmithrvll.cdn.mangomolo.com/dubaimubasher/smil:dubaimubasher.smil/playlist.m3u8	
 #EXTINF:-1, Dubai Sports 1
 http://dmitnthvll.cdn.mangomolo.com/dubaisports/smil:dubaisports.smil/chunklist_b1600000.m3u8
 #EXTINF:-1,DUBAI SPORTS 2 (1920×1080)
@@ -1036,6 +1042,8 @@ https://stream5.shidur.net/htvlive2/_definst_/smil:live2.smil/chunklist.m3u8
 #EXTINF:-1, Hidabroot
 https://stream71.shidur.net/htvlive2/_definst_/smil:live2.smil/playlist.m3u8
 #EXTINF:-1, Himlen TV 7
+http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8	
+#EXTINF:-1 ,Himlen TV7 (SE)
 http://vod.tv7.fi:1935/tv7-se/tv7-se.stream_720p/playlist.m3u8
 #EXTINF:-1, Himlen TV7
 http://vod.tv7.fi:1935/tv7-se/_definst_/smil:tv7-se.smil/playlist.m3u8
@@ -1245,6 +1253,7 @@ https://livestream.pbskids.org/out/v1/1e3d77b418ad4a819b3f4c80ac0373b5/est.m3u8
 #EXTINF:-1,PBS World ChannelHD
 https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/playlist.m3u8
 #EXTINF:-1,PBSWorld Channel
+https://cs.ebmcdn.net/eastbay-live-hs-1/apt/mp4:apt-world/HasBahCa.m3u8	
 #EXTINF:-1 ,PIX11 (New York)
 https://content.uplynk.com/channel/98828f7707b84dc496472d5789143df2.m3u8
 #EXTINF:-1 ,QVTV
@@ -1520,7 +1529,123 @@ http://live.trkmillet.ru/millet/index.m3u8
 #EXTINF:-1 ,Ministry of Ideas
 http://live-minidey.cdnvideo.ru/minidey/minidey.sdp/playlist.m3u8
 #EXTINF:-1 , World +3
-http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv2_2500/playlist.m3u8
+#EXTINF:-1 , World +4 (540p)
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv3_2500/playlist.m3u8
+#EXTINF:-1 , World 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/hd/playlist.m3u8
+#EXTINF:-1 , World 24
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mir24_2500/playlist.m3u8
+#EXTINF:-1 , World 24
+http://uiptv.do.am/1ufc/112234126/playlist.m3u8
+#EXTINF:-1 ,Serial World
+http://185.161.224.216/dash/Mir_seriala_SD.ism/playlist.mpd
+#EXTINF:-1 ,World
+http://hls.mirtv.cdnvideo.ru/mirtv-parampublish/mirtv_2500/playlist.m3u8
+#EXTINF:-1 ,World
+http://uiptv.do.am/1ufc/113500247/playlist.m3u8
+#EXTINF:-1 ,Mordovia 24
+https://live-mordovia24.cdnvideo.ru/mordovia24/streamtr/playlist.m3u8
+#EXTINF:-1 ,My Planet
+http://cdnmg.secure.live.rtr-vesti.ru/live/smil:mplan.smil/chunklist_b1600000.m3u8
+#EXTINF:-1 ,MTV (Volgograd)
+http://hls.volgograd1vtv.cdnvideo.ru/volgograd1vtv/volgograd1vtv.sdp/playlist.m3u8
+#EXTINF:-1 ,Muz union
+http://hls-tvsoyuz.cdnvideo.ru/tvsoyuz2/muzsoyuz.6fw0-58xp-acts-esy0/playlist.m3u8
+#EXTINF:-1 ,Hope
+https://live-tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 ,Hope
+https://tvhope.cdnvideo.ru/tvhope-pull/tvhope_1/playlist.m3u8
+#EXTINF:-1 ,Nadiya/New Channel
+http://nadiya.home-net.com.ua/mob/mystream.m3u8
+#EXTINF:-1 ,Nano
+http://nano.teleservice.su:8080/hls/nano.m3u8
+#EXTINF:-1 ,Our Kinoroman
+http://s1.only4.tv/0107/video.m3u8
+#EXTINF:-1 ,Our Cool HD
+http://ba5729d5.krasnafhg.ru/iptv/EAEWFFWBXPVVLY/915/index.m3u8
+#EXTINF:-1 ,NVK Sakha
+http://live-saha.cdnvideo.ru/saha/saha/playlist.m3u8
+#EXTINF:-1 ,Heaven TV7 (RU)
+http://vod.tv7.fi:1935/tv7-ru/tv7-ru.stream_720p/playlist.m3u8
+#EXTINF:-1 ,Heaven TV7
+http://vod.tv7.fi:1935/tv7-ru/_definst_/smil:tv7-ru.smil/playlist.m3u8
+#EXTINF:-1 ,Nika TV
+https://live-nikatv.cdnvideo.ru/nikatv/nikatv.sdp/playlist.m3u8
+#EXTINF:-1 ,New TV
+http://serv25.vintera.tv:8081/novoetv/nov_tv/chunks.m3u8
+#EXTINF:-1 ,New TV
+http://serv25.vintera.tv:8081/novoetv/nov_tv/playlist.m3u8
+#EXTINF:-1 ,New world (406p)
+http://stream.studio360.tv/nw/nw_576p/playlist.m3u8
+#EXTINF:-1 ,New world (406p)
+https://persik.by/stream/8682/252987/10231.m3u8
+#EXTINF:-1 , NTV HD
+http://ntv-hls-orig.cdnvideo.ru/ntv0_hd/index.m3u8
+#EXTINF:-1 ,NTV+ Sport
+https://live-k2301-kbp.1plus1.video/sport/smil:sport.smil/playlist.m3u8
+#EXTINF:-1 ,NTK
+https://stream.ntktv.ua/s/ntk/ntk.m3u8
+#EXTINF:-1, NTM (People's TV of Mordovia)
+https://live-ntm13.cdnvideo.ru/ntm13/smil:ntm13.smil/playlist.m3u8
+#EXTINF:-1 ,NTS
+http://peqk71plnjy.a.trbcdn.net/livemaster/w4kz7pki62_nts_tv/chunklist.m3u8
+#EXTINF:-1 , Public Independent Television
+http://85.238.112.40:8810/hls_sec/239.33.75.33-.m3u8
+#EXTINF:-1 , Action HD
+http://4197b1f4.kazaktelekom.org/iptv/NXLLLMU654RENM/904/index.m3u8
+#EXTINF:-1 ,OTR
+https://uiptv.do.am/1ufc/000000008/playlist.m3u8
+#EXTINF:-1 ,First City (Krivoy Rog)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1 ,First City (Krivoy Rog)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/1tvkr/1tvkr/playlist.m3u8
+#EXTINF:-1 ,First City (Krivoy Rog)
+http://cdn1.live-tv.od.ua:8081/1tvkr/1tvkr-abr/playlist.m3u8
+#EXTINF:-1 ,First city (Odessa)
+http://91.194.79.46:8081/stream1/channel1/playlist.m3u8
+#EXTINF:-1 ,First City (Odessa)
+http://91.194.79.46:8081/stream2/channel2/playlist.m3u8
+#EXTINF:-1 ,First Business
+http://95.67.127.156/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1 ,First Business
+http://pershij-dlovij-hls1.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1 ,First Crimean
+http://mrlive.1tvcrimea.ru:8080/1tvcrimea.m3u8
+#EXTINF:-1 ,First Musical BY
+http://rtmp.one.by:1300
+#EXTINF:-1 ,First Musical RU
+http://rtmp.one.by:2200
+#EXTINF:-1 ,First Musical RU
+http://rtmp.one.by:2300
+#EXTINF:-1 ,First Pskov
+http://194.190.78.91/pskov/rewind-10800.m3u8
+#EXTINF:-1 ,First Tula
+http://5.164.24.83/tula/1tv_low/index.m3u8
+#EXTINF:-1 ,Pershiy Dilovy
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_hi/index.m3u8
+#EXTINF:-1 ,Pershiy Dilovy
+http://pershij-dlovij-hls3.cosmonova.net.ua/hls/pershij-dlovij_ua_mid/index.m3u8
+#EXTINF:-1 TrueHERE
+http://95.67.17.131/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 TrueHERE
+http://pravdatytkievshina-hls2.cosmonova.net.ua/hls/pravdatytkievshina_ua_hi/index.m3u8
+#EXTINF:-1 ,Prima
+https://rt-sib-krsk-htlive.cdn.ngenix.net/hls/CH_R11_OTT_SIB_KRSK_STS/variant.m3u8
+#EXTINF:-1 , Enlightenment
+http://cdn-01.bonus-tv.ru:8080/prosveschenie_edge/tracks-v1a1/index.m3u8
+#EXTINF:-1 , Radio 101.8 [Penza]
+https://video.penzainform.ru/e/r1018.m3u8
+#EXTINF:-1 ,Radio Says Moscow (Webcam) [RU]
+https://video.govoritmoskva.ru/rufm/index.m3u8
+#EXTINF:-1 , Radio Hit (Orsk)
+http://hithd.camsh.orsk.ru/hls/hithd.m3u8
+#EXTINF:-1 ,Radio Says Moscow
+http://video.govoritmoskva.ru:8080/live/rufmbk-1/index.m3u8
+#EXTINF:-1 , radio Hit TV
+http://hithd.camsh.orsk.ru/hls/hit.m3u8
+#EXTINF:-1 ,Radio Chanson
+http://chanson-video.hostingradio.ru:8080/hls/chanson
 http://live-uvelirochka.cdnvideo.ru/uvelirochka/uvelirochka_720p3/playlist.m3u8
 #EXTINF:-1 , Bahrain Sports
 http://185.105.4.106:1935/live/Bahrain%20Sports/chunklist.m3u8
