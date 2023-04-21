@@ -1,456 +1,203 @@
 #EXTM3U url-tvg="https://3o77.short.gy/epg.xml.gz"
 
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo167952257",Zee Cinema HD
-https://zii.vishami3.repl.co/?c=0-9-zeecinemahd
-#EXTINF:-1 tvg-id="0-9-zeecinemalu" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x6581642453232",Zee Cinemalu HD
-https://zii.vishami3.repl.co/?c=0-9-zeecinemalu
-#EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog1476130363",&Pictures HD
-https://zii.vishami3.repl.co/?c=0-9-tvpictureshd
-#EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/channel_web/1170x658483062857",Zee Talkies HD
-https://zii.vishami3.repl.co/?c=0-9-zeetalkies
-#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595",Zee Anmol Cinema
-https://zii.vishami3.repl.co/?c=0-9-zeeanmolcinema
-#EXTINF:-1 tvg-id="0-9-zeeclassic" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658e6b59efbc9c5471f9392f477f91f0c11",Zee Bollywood
-https://zii.vishami3.repl.co/?c=0-9-zeeclassic
-#EXTINF:-1 tvg-id="0-9-zeecinema" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654",Zee Cinema
-https://zii.vishami3.repl.co/?c=0-9-zeecinema
-#EXTINF:-1 tvg-id="0-9-pictures" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414",&Pictures
-https://zii.vishami3.repl.co/?c=0-9-pictures
-#EXTINF:-1 tvg-id="0-9-zeeaction" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347",Zee Action
-https://zii.vishami3.repl.co/?c=0-9-zeeaction
-#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2105335046/channel_web/1170x658379547401",&flix HD
-https://zii.vishami3.repl.co/?c=0-9-channel_2105335046
-#EXTINF:-1 tvg-id="0-9-privéhd" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_352,h_198,c_scale,f_webp,q_auto:eco/resources/0-9-priv%C3%A9hd/channel_list/1170x658withlogo375086496.png",&Privé HD
-https://cflive-esports-english.zee5.com/out/v1/c062d6eaddd44be39d51d5270e4a151a/And_Prive_HD/index.m3u8
-#EXTINF:-1 tvg-id="0-9-176" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658d4d3573a17f24dcdb86c0da75e7208e8",Zee Classic
-https://zii.vishami3.repl.co/?c=0-9-176
-#EXTINF:-1 tvg-id="0-9-209" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-209/channel_web/1170x658withlogo358457080",&xplorHD
-https://zii.vishami3.repl.co/?c=0-9-209
-#EXTINF:-1 tvg-id="0-9-216" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-216/channel_web/1170x658withlogo20909261",Zee Biskope
-https://zii.vishami3.repl.co/?c=0-9-216
-#EXTINF:-1 tvg-id="0-9-224" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-224/channel_web/1170x658withlogo_334138193",Zee Thirai
-https://zii.vishami3.repl.co/?c=0-9-224
-#EXTINF:-1 tvg-id="0-9-394" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-394/channel_web/1170x658717187404",Zee Chitramandir
-https://zii.vishami3.repl.co/?c=0-9-394
-#EXTINF:-1 tvg-id="0-9-aajtak" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-aajtak/channel_web/aajtak117075e453cde75a4fcbbd98b890266dcb21",Aaj Tak
-https://zii.vishami3.repl.co/?c=0-9-aajtak
-#EXTINF:-1 tvg-id="0-9-zeenews" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeenews/channel_web/zeenews117058a10e260ccf453885b0b866b6efcf8c",Zee News
-https://zii.vishami3.repl.co/?c=0-9-zeenews
-#EXTINF:-1 tvg-id="0-9-162" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-162/channel_web/anchorbanners11704f82e6a64233425f9ccc065f88214e34",Republic Bharat
-https://zii.vishami3.repl.co/?c=0-9-162
-#EXTINF:-1 tvg-id="0-9-zeebusiness" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebusiness/channel_web/zeebusiness117088d767ebaf91485992201f5422d49bb1",Zee Business
-https://zii.vishami3.repl.co/?c=0-9-zeebusiness
-#EXTINF:-1 tvg-id="0-9-170" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/newsnation1170c28d164cac8b46d48dd03c24f22a2611",News Nation
-https://zii.vishami3.repl.co/?c=0-9-170
-#EXTINF:-1 tvg-id="0-9-257" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-257/channel_web/tv9marathi1170c5bded27d1644b18a5624c7dd3c33d3b",TV9 Marathi
-https://zii.vishami3.repl.co/?c=0-9-257
-#EXTINF:-1 tvg-id="0-9-indiatoday" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-indiatoday/channel_web/indiatodayrajeevsardesdai117023f79b66b4d4466ea52534491c162c35",India Today
-https://zii.vishami3.repl.co/?c=0-9-indiatoday
-#EXTINF:-1 tvg-id="0-9-306" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-306/channel_web/vendhartv1170ea466f03c5984481876c4200bd6bb22d",Vendhar TV
-https://zii.vishami3.repl.co/?c=0-9-306
-#EXTINF:-1 tvg-id="0-9-258" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-258/channel_web/tv9telugu117006600b0482a24377bec3b6b67e0b48c9",TV9 Telugu
-https://zii.vishami3.repl.co/?c=0-9-258
-#EXTINF:-1 tvg-id="0-9-222" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-222/channel_web/1170x658withlogo273514222953081f2a5264d2199171a94a0135187",TV5 News
-https://zii.vishami3.repl.co/?c=0-9-222
-#EXTINF:-1 tvg-id="0-9-270" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-270/channel_web/saamtv117064848316bfb4424ab360060c0214cec9",Saam TV
-https://zii.vishami3.repl.co/?c=0-9-270
-#EXTINF:-1 tvg-id="0-9-282" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-282/channel_web/indiatv1170598b3b1a8dde4800bcff6b4bc7ec02cc",India TV
-https://zii.vishami3.repl.co/?c=0-9-282
-#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeepunjabharyanahima/channel_web/zphh14405b673f1d0f8a43969c82a3c67dff3dad",Zee Punjab Haryana Himachal Pradesh
-https://zii.vishami3.repl.co/?c=0-9-zeepunjabharyanahima
-#EXTINF:-1 tvg-id="0-9-251" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-251/channel_web/tv9bharatvarshb1170e3167ef254394aa0b6ff7a978bdbc921",TV9 Bharatvarsh
-https://zii.vishami3.repl.co/?c=0-9-251
-#EXTINF:-1 tvg-id="0-9-206" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-206/channel_web/e24newslogob1170d070a62b9582496dbaaf4a73a3430376",News24
-https://zii.vishami3.repl.co/?c=0-9-206
-#EXTINF:-1 tvg-id="0-9-channel_1422341819" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_1422341819/channel_web/rtv11708043efd184cc497facd3cc4387cbb108",Republic TV
-https://zii.vishami3.repl.co/?c=0-9-channel_1422341819
-#EXTINF:-1 tvg-id="0-9-260" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-260/channel_web/tv9gujarati1170f3923ce988484dd0a81cd0bec994e377",TV9 Gujarati
-https://zii.vishami3.repl.co/?c=0-9-260
-#EXTINF:-1 tvg-id="0-9-zee24kalak" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zee24kalak/channel_web/zee24kalak117026f0ebf7a57941d79fd9fdd74a2d6f26",Zee 24 Kalak
-https://zii.vishami3.repl.co/?c=0-9-zee24kalak
-#EXTINF:-1 tvg-id="0-9-259" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-259/channel_web/tv9kannada1170035730f6801c4ba0b1d905a61bbc9dcd",TV9 Kannada
-https://zii.vishami3.repl.co/?c=0-9-259
-#EXTINF:-1 tvg-id="0-9-201" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-201/channel_web/1170x658_503553443",Suvarna News
-https://zii.vishami3.repl.co/?c=0-9-201
-#EXTINF:-1 tvg-id="0-9-zee24taas" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zee24taas/channel_web/zee24taas11707d845042f4ef453a8568b6ba22b3f568",Zee 24 Taas
-https://zii.vishami3.repl.co/?c=0-9-zee24taas
-#EXTINF:-1 tvg-id="0-9-255" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-255/channel_web/gnt11709b84a70ae43a4fcab837620b97c80f5f",Good News Today
-https://zii.vishami3.repl.co/?c=0-9-255
-#EXTINF:-1 tvg-id="0-9-wion" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-wion/channel_web/wion117087793a1cce2d4dcaa4274d5bfc6d5a96",WION
-https://zii.vishami3.repl.co/?c=0-9-wion
-#EXTINF:-1 tvg-id="0-9-zeehindustan" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeehindustan/channel_web/zeehindustan11708e67b053f5e1461abb55377b1c939336",Zee Hindustan
-https://zii.vishami3.repl.co/?c=0-9-zeehindustan
-#EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebiharjharkhand/channel_web/zeebiharjharkhandb117099e2787548354a5abd1c2230a5bee898",Zee Bihar Jharkhand
-https://zii.vishami3.repl.co/?c=0-9-zeebiharjharkhand
-#EXTINF:-1 tvg-id="0-9-171" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-171/channel_web/newsstateuttarpradeshuttrakhand117057fc4c96dc444886b421570253e13a6a",News State Uttar Pradesh Uttrakhand
-https://zii.vishami3.repl.co/?c=0-9-171
-#EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-24ghantatv/channel_web/anchorbanners117074b09be61e5a4f27b38cbbdc9527fc02",24 Ghanta
-https://zii.vishami3.repl.co/?c=0-9-24ghantatv
-#EXTINF:-1 tvg-id="0-9-zeekalinganews" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekalinganews/channel_web/zeeodisha11707ef6fbab0159428bbe1a3196370fa851",Zee Odisha
-https://zii.vishami3.repl.co/?c=0-9-zeekalinganews
-#EXTINF:-1 tvg-id="0-9-zeerajasthannews" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeerajasthannews/channel_web/zeerajasthanb1170751ba3f9900e44b9a49f06e4e37042db",Zee Rajasthan News
-https://zii.vishami3.repl.co/?c=0-9-zeerajasthannews
-#EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemadhyapradeshchat/channel_web/zeemadhyapradeshchhattisgarh1170342c565feaf141ccb6e5b39d2ce0e71d",Zee Madhya Pradesh Chhattisgarh
-https://zii.vishami3.repl.co/?c=0-9-zeemadhyapradeshchat
-#EXTINF:-1 tvg-id="0-9-chardiklatimetvtimet" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-chardiklatimetvtimet/channel_web/chardiklatimetv1170803e29eda81041f481cabfbcf63c406a",Chardikla Time TV
-https://zii.vishami3.repl.co/?c=0-9-chardiklatimetvtimet
-#EXTINF:-1 tvg-id="0-9-ddnews" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddnews/channel_web/ddnews11705b93d38449604b94b8b715cef36f33c6",DD News
-https://zii.vishami3.repl.co/?c=0-9-ddnews
-#EXTINF:-1 tvg-id="0-9-ddindia" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddindia/channel_web/ddindiab117082f1e0ff4e50404a97f9e4ea810d0d64",DD India
-https://zii.vishami3.repl.co/?c=0-9-ddindia
-#EXTINF:-1 tvg-id="0-9-ddkisan" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddkisan/channel_web/ddkisan1170dd6893e0dd6d49c1aa725b8981c6ccdb",DD Kisan
-https://zii.vishami3.repl.co/?c=0-9-ddkisan
-#EXTINF:-1 tvg-id="0-9-zeesalaam" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeesalaam/channel_web/zeesalaam1170007fc0a564444dd68d57bb1e95619dc2",Zee Salaam
-https://zii.vishami3.repl.co/?c=0-9-zeesalaam
-#EXTINF:-1 tvg-id="0-9-ddyadagiri" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddyadagiri/channel_web/ddyadagiri1170fb5c4623571b43a5b0fc6a728e6d6aa0",DD Yadagiri
-https://zii.vishami3.repl.co/?c=0-9-ddyadagiri
-#EXTINF:-1 tvg-id="0-9-channel_265145625" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_265145625/channel_web/zeeupukb1170a14076402a564513b88b488a90421d59",Zee News Uttar Pradesh Uttrakhand
-https://zii.vishami3.repl.co/?c=0-9-channel_265145625
-#EXTINF:-1 tvg-id="0-9-172" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-172/channel_web/newsstatempch11705453127ff9284c43b982e7e52d76641c",News State Madhya Pradesh Chhattisgarh
-https://zii.vishami3.repl.co/?c=0-9-172
-#EXTINF:-1 tvg-id="0-9-200" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-200/channel_web/pgsureshkumarne_1752938193",Asianet News
-https://zii.vishami3.repl.co/?c=0-9-200
-#EXTINF:-1 tvg-id="0-9-227" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-227/channel_web/tv5kannada1170aaeef9c71d264307ae6263b453520611",TV5 Kannada
-https://zii.vishami3.repl.co/?c=0-9-227
-#EXTINF:-1 tvg-id="0-9-272" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-272/channel_web/indianews117031f8a5ac002d4997aacd1577d390d3b0",India News
-https://zii.vishami3.repl.co/?c=0-9-272
-#EXTINF:-1 tvg-id="0-9-273" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-273/channel_web/newsx11705f1b6520fc254daebac5828ac093b798",News X
-https://zii.vishami3.repl.co/?c=0-9-273
-#EXTINF:-1 tvg-id="0-9-274" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-274/channel_web/indianewspunjabhimachal1170c83368ea85274c9984dfbb31a8d9619b",India News Punjabi Himachal
-https://zii.vishami3.repl.co/?c=0-9-274
-#EXTINF:-1 tvg-id="0-9-275" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-275/channel_web/indianewsupuk1170699189b29da0419780b604b5b27a1d5e",India News UP
-https://zii.vishami3.repl.co/?c=0-9-275
-#EXTINF:-1 tvg-id="0-9-276" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-276/channel_web/indianewsrajasthan11709eea0d2513e04c16b39ed265596df0e5",India News Rajasthan
-https://zii.vishami3.repl.co/?c=0-9-276
-#EXTINF:-1 tvg-id="0-9-277" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-277/channel_web/indianewsmp1170cb5cf71c7f1141f8be18c083970cf4ed",India News MP
-https://zii.vishami3.repl.co/?c=0-9-277
-#EXTINF:-1 tvg-id="0-9-278" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-278/channel_web/indianewsharyana11708fc221c14dcb40e389b3d9e1338a6c6c",India News Haryana
-https://zii.vishami3.repl.co/?c=0-9-278
-#EXTINF:-1 tvg-id="0-9-279" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-279/channel_web/indianewsgujarat1170d81d0752eea04c669df2dc37c1bd4f97",India News Gujarat
-https://zii.vishami3.repl.co/?c=0-9-279
-#EXTINF:-1 tvg-id="0-9-280" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-280/channel_web/nenews1170b76941073dff4b9382b14f80198b5105",NE News
-https://zii.vishami3.repl.co/?c=0-9-280
-#EXTINF:-1 tvg-id="0-9-305" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-305/channel_web/livingindia1170df15a8430ba5461880eaec89eb8d05ef",Living India
-https://zii.vishami3.repl.co/?c=0-9-305
-#EXTINF:-1 tvg-id="0-9-310" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-310/channel_web/pragnews11708e8cfbbd7cc342c09e27956a56a6084a",Prag News
-https://zii.vishami3.repl.co/?c=0-9-310
-#EXTINF:-1 tvg-id="0-9-313" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-313/channel_web/sadhnaplusnews117044705e58ca9749d08603adeec06c299d",Sadhna Plus News
-https://zii.vishami3.repl.co/?c=0-9-313
-#EXTINF:-1 tvg-id="0-9-314" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-314/channel_web/vipnews1170a39a47a1b0554f04ae96edb65b77d0fe",VIP News
-https://zii.vishami3.repl.co/?c=0-9-314
-#EXTINF:-1 tvg-id="0-9-317" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-317/channel_web/time81170bcb518bfbd19440b8b482cad67ca7a8f",TIME8
-https://zii.vishami3.repl.co/?c=0-9-317
-#EXTINF:-1 tvg-id="0-9-319" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-319/channel_web/sadhnanewsmpch11700de2a8f50653478c8a26b11904e279cc",Sadhna News MP/CG
-https://zii.vishami3.repl.co/?c=0-9-319
-#EXTINF:-1 tvg-id="0-9-354" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-354/channel_web/bharatsamachar1170db49df94773d486194cba05b2d712ffe",Bharat Samachar
-https://zii.vishami3.repl.co/?c=0-9-354
-#EXTINF:-1 tvg-id="0-9-355" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-355/channel_web/abnandhrajyothy11700427e7d0f53343ca8612a9caa4ed1edd",ABN Andhra Jyothy
-https://zii.vishami3.repl.co/?c=0-9-355
-#EXTINF:-1 tvg-id="0-9-371" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-371/channel_web/10tv1170867ca01f83cd44a4b4e2c577590039f0",10TV
-https://zii.vishami3.repl.co/?c=0-9-371
-#EXTINF:-1 tvg-id="0-9-378" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-378/channel_web/tv9bangla11701498fb25d3fd4b4db18c5d4e05e83cc9ce",TV9 Bangla
-https://zii.vishami3.repl.co/?c=0-9-378
-#EXTINF:-1 tvg-id="0-9-383" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-383/channel_web/sudarshantv1170ab2c3555bfa44317922f02d2bdea03de",Sudarshan TV
-https://zii.vishami3.repl.co/?c=0-9-383
-#EXTINF:-1 tvg-id="0-9-384" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-384/channel_web/dainiksavera1170fba0f7f5e89c488c893f6b80a54603d6",Dainik Savera
-https://zii.vishami3.repl.co/?c=0-9-384
-#EXTINF:-1 tvg-id="0-9-385" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-385/channel_web/cnewsbharat1170058694df1b4b4b3eac921b188dff69f6",C News Bharat
-https://zii.vishami3.repl.co/?c=0-9-385
-#EXTINF:-1 tvg-id="0-9-386" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-386/channel_web/tv1001170ab5260f9aca74e2590f119c364bbf435",TV 100
-https://zii.vishami3.repl.co/?c=0-9-386
-#EXTINF:-1 tvg-id="0-9-387" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-387/channel_web/abstarnews11702861f1381130457292da3bde6f1bf2fc",AB Star News
-https://zii.vishami3.repl.co/?c=0-9-387
-#EXTINF:-1 tvg-id="0-9-388" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-388/channel_web/sanjhisoch11708b74fd15cc674b69aa715814bb0f7a0f",Sanjhi Soch
-https://zii.vishami3.repl.co/?c=0-9-388
-#EXTINF:-1 tvg-id="0-9-389" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-389/channel_web/euronewsb117009692741d8254698a3a35f9cef914b2e",Euro News
-https://zii.vishami3.repl.co/?c=0-9-389
-#EXTINF:-1 tvg-id="0-9-390" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-390/channel_web/africanewsb11702dce80531da94a959cf9be397d4f8469",Africa News
-https://zii.vishami3.repl.co/?c=0-9-390
-#EXTINF:-1 tvg-id="0-9-398" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-398/channel_web/abpnewssumitawasthi21170ef3a0d5743ed479aab0111e2440ca87b",ABP News
-https://zii.vishami3.repl.co/?c=0-9-398
-#EXTINF:-1 tvg-id="0-9-399" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-399/channel_web/abpganga1170e69c33f8e6d140fd8cd954177064b16b",ABP Ganga
-https://zii.vishami3.repl.co/?c=0-9-399
-#EXTINF:-1 tvg-id="0-9-400" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-400/channel_web/abpmajha1170cb8e2b94f9244846a3be5bdaa87792f8",ABP Majha
-https://zii.vishami3.repl.co/?c=0-9-400
-#EXTINF:-1 tvg-id="0-9-402" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-402/channel_web/abpananda1170326ed9e75816a6456b9e713f1f5bf83cc7",ABP Ananda
-https://zii.vishami3.repl.co/?c=0-9-402
-#EXTINF:-1 tvg-id="0-9-403" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-403/channel_web/abpasmita1170e9877d844ae74d54910d4a1798720913",ABP Asmita
-https://zii.vishami3.repl.co/?c=0-9-403
-#EXTINF:-1 tvg-id="0-9-404" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-404/channel_web/abpsanjha1170e043143edf5f4fa3be291347ddd15311",ABP Sanjha
-https://zii.vishami3.repl.co/?c=0-9-404
-#EXTINF:-1 tvg-id="0-9-407" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-407/channel_web/1170x658671581899",News Time Assam
-https://zii.vishami3.repl.co/?c=0-9-407
-#EXTINF:-1 tvg-id="0-9-408" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-408/channel_web/nd2411700106e77550ed4c70a5e578db7644f6a1",ND24
-https://zii.vishami3.repl.co/?c=0-9-408
-#EXTINF:-1 tvg-id="0-9-410" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-410/channel_web/cvrnewstelugu117089dc3accd5114448a6db45530a8be68d",CVR News Telugu
-https://zii.vishami3.repl.co/?c=0-9-410
-#EXTINF:-1 tvg-id="0-9-411" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-411/channel_web/cvrenglish11702e7a7b9730fb46c2ba5c37f06bcb3d22",CVR English
-https://zii.vishami3.repl.co/?c=0-9-411
-#EXTINF:-1 tvg-id="0-9-413" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-413/channel_web/pratidintime1170afea806003d0418ab560e90ae675fb41",Pratidin Time
-https://zii.vishami3.repl.co/?c=0-9-413
-#EXTINF:-1 tvg-id="0-9-417" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-417/channel_web/news1india117021bcedcc55e34d259ffce7b35189a0a3",News1 India
-https://zii.vishami3.repl.co/?c=0-9-417
-#EXTINF:-1 tvg-id="0-9-418" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-418/channel_web/v611706da0a50feba64da09d710bfc70714d88",V6
-https://zii.vishami3.repl.co/?c=0-9-418
-#EXTINF:-1 tvg-id="0-9-423" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-423/channel_web/1170x658_1426309917",Newsmax
-https://zii.vishami3.repl.co/?c=0-9-423
-#EXTINF:-1 tvg-id="0-9-424" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-424/channel_web/1170x658439820624",Ticker News
-https://zii.vishami3.repl.co/?c=0-9-424
-#EXTINF:-1 tvg-id="0-9-430" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-430/channel_web/sarath_1170",Kairali News
-https://zii.vishami3.repl.co/?c=0-9-430
-#EXTINF:-1 tvg-id="0-9-431" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-431/channel_web/rbangla1170",Republic Bangla
-https://zii.vishami3.repl.co/?c=0-9-431
-#EXTINF:-1 tvg-id="0-9-9z583386" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z583386/channel_web/timesnownavbharat1170e4f4cbfa707b40e19ca7748eb6b27449",Times Now Navbharat
-https://zii.vishami3.repl.co/?c=0-9-9z583386
-#EXTINF:-1 tvg-id="0-9-9z583533" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z583533/channel_web/1170x65872e20eebb8c4416db5d5b1e014e2ab77",ZEE News Tamil
-https://zii.vishami3.repl.co/?c=0-9-9z583533
-#EXTINF:-1 tvg-id="0-9-9z583537" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z583537/channel_web/1170x65892ecf4aa8e934cdeb7deb9bbd501646d",ZEE News Kannada
-https://zii.vishami3.repl.co/?c=0-9-9z583537
-#EXTINF:-1 tvg-id="0-9-9z583538" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z583538/channel_web/1170x658fb1bd397310743bf850648fb036ae8b7",Zee News Telugu
-https://zii.vishami3.repl.co/?c=0-9-9z583538
-#EXTINF:-1 tvg-id="0-9-9z583539" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-9z583539/channel_web/1170x658f0313dbfc3ef4c0c9c4619454829b2d3",ZEE News Malayalam
-https://zii.vishami3.repl.co/?c=0-9-9z583539
-#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigmagic_1786965389/channel_web/1170x658withlog_2022520414",Big Magic
-https://zii.vishami3.repl.co/?c=0-9-bigmagic_1786965389
-#EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetvhd/channel_web/1170x658withlog1554775145",Zee TV HD
-https://zii.vishami3.repl.co/?c=0-9-zeetvhd
-#EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvhd_0/channel_web/1170x658withlogo378606665",&TV HD
-https://zii.vishami3.repl.co/?c=0-9-tvhd_0
-#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemarathi/channel_web/1170x658withlogo551054149",Zee Marathi HD
-https://zii.vishami3.repl.co/?c=0-9-zeemarathi
-#EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeyuva/channel_web/1170x658withlogo_361849131",Zee Yuva
-https://zii.vishami3.repl.co/?c=0-9-zeeyuva
-#EXTINF:-1 tvg-id="0-9-zeecafehd" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecafehd/channel_web/1170x658withlogo325698699",Zee Caf  HD
-https://zii.vishami3.repl.co/?c=0-9-zeecafehd
-#EXTINF:-1 tvg-id="0-9-bigganga" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-bigganga/channel_web/1170x6581735687172",Zee Ganga
-https://zii.vishami3.repl.co/?c=0-9-bigganga
-#EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x6581250786368",Zee Tamil HD
-https://zii.vishami3.repl.co/?c=0-9-zeetamil
-#EXTINF:-1 tvg-id="0-9-zeetelugu" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_web/1170x658593933473",Zee Telugu HD
-https://zii.vishami3.repl.co/?c=0-9-zeetelugu
-#EXTINF:-1 tvg-id="0-9-zeekannada" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekannada/channel_web/1170x658611455469",Zee Kannada HD
-https://zii.vishami3.repl.co/?c=0-9-zeekannada
-#EXTINF:-1 tvg-id="0-9-129" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-129/channel_web/1170x658withlogo268830785",Zee Keralam HD
-https://zii.vishami3.repl.co/?c=0-9-129
-#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_web/1170x658310781121",Zee Bangla HD
-https://zii.vishami3.repl.co/?c=0-9-zeebangla
-#EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmol/channel_web/1170x658withlog_1844143347",Zee Anmol
-https://zii.vishami3.repl.co/?c=0-9-zeeanmol
-#EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_web/1170x658withlog1238879598",Zee Bangla Cinema
-https://zii.vishami3.repl.co/?c=0-9-zeebanglacinema
-#EXTINF:-1 tvg-id="0-9-215" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-215/channel_web/1170x658withlog1031170304",Zee Punjabi
-https://zii.vishami3.repl.co/?c=0-9-215
-#EXTINF:-1 tvg-id="0-9-ddodia" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddodia/channel_web/1170x658withlog_1372768736",DD Odia
-https://zii.vishami3.repl.co/?c=0-9-ddodia
-#EXTINF:-1 tvg-id="0-9-165" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-165/channel_web/1170x658withlog_1849594732",Boogle Bollywood
-https://zii.vishami3.repl.co/?c=0-9-165
-#EXTINF:-1 tvg-id="0-9-channel_2132977507" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2132977507/channel_web/1170x658withlog1071598760",Alpha ETC Punjabi
-https://zii.vishami3.repl.co/?c=0-9-channel_2132977507
-#EXTINF:-1 tvg-id="0-9-zeetv" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetv/channel_web/1170x658withlogo_200095097",Zee TV
-https://zii.vishami3.repl.co/?c=0-9-zeetv
-#EXTINF:-1 tvg-id="0-9-makkaltv" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-makkaltv/channel_web/1170x658withlogo_579936187",Makkal TV
-https://zii.vishami3.repl.co/?c=0-9-makkaltv
-#EXTINF:-1 tvg-id="0-9-ddpodhigai" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpodhigai/channel_web/1170x658withlog_1550486077",DD Podhigai
-https://zii.vishami3.repl.co/?c=0-9-ddpodhigai
-#EXTINF:-1 tvg-id="0-9-ddmalayalam" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddmalayalam/channel_web/1170x658withlog_1300475155",DD Malayalam
-https://zii.vishami3.repl.co/?c=0-9-ddmalayalam
-#EXTINF:-1 tvg-id="0-9-ddbangla" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddbangla/channel_web/1170x658withlog_1242891543",DD Bangla
-https://zii.vishami3.repl.co/?c=0-9-ddbangla
-#EXTINF:-1 tvg-id="0-9-ddchandana" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddchandana/channel_web/1170x658withlogo_222569298",DD Chandana
-https://zii.vishami3.repl.co/?c=0-9-ddchandana
-#EXTINF:-1 tvg-id="0-9-sarthaktv" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-sarthaktv/channel_web/1170x658withlog1150431941",Zee Sarthak
-https://zii.vishami3.repl.co/?c=0-9-sarthaktv
-#EXTINF:-1 tvg-id="0-9-ddsahyadri" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddsahyadri/channel_web/1170x658withlog1078376781",DD Sahyadri
-https://zii.vishami3.repl.co/?c=0-9-ddsahyadri
-#EXTINF:-1 tvg-id="0-9-ddgirnar" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddgirnar/channel_web/1170x658withlog_1445842484",DD Girnar
-https://zii.vishami3.repl.co/?c=0-9-ddgirnar
-#EXTINF:-1 tvg-id="0-9-ddurdu" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddurdu/channel_web/1170x658withlog_1440959247",DD Urdu
-https://zii.vishami3.repl.co/?c=0-9-ddurdu
-#EXTINF:-1 tvg-id="0-9-ddrajasthanjaipur" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddrajasthanjaipur/channel_web/1170x658withlog_1491909175",DD Rajasthan
-https://zii.vishami3.repl.co/?c=0-9-ddrajasthanjaipur
-#EXTINF:-1 tvg-id="0-9-ddbharati" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddbharati/channel_web/1170x658withlog_1749264623",DD Bharati
-https://zii.vishami3.repl.co/?c=0-9-ddbharati
-#EXTINF:-1 tvg-id="0-9-ddmadhyapradesh" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddmadhyapradesh/channel_web/1170x658withlog_1218231157",DD Madhya Pradesh
-https://zii.vishami3.repl.co/?c=0-9-ddmadhyapradesh
-#EXTINF:-1 tvg-id="0-9-ddbihar" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddbihar/channel_web/1170x658withlog_1865440648",DD Bihar
-https://zii.vishami3.repl.co/?c=0-9-ddbihar
-#EXTINF:-1 tvg-id="0-9-dduttarpradesh" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-dduttarpradesh/channel_web/1170x658withlog_1445486903",DD Uttar Pradesh
-https://zii.vishami3.repl.co/?c=0-9-dduttarpradesh
-#EXTINF:-1 tvg-id="0-9-ddpunjabi" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpunjabi/channel_web/1170x658withlog_1007647800",DD Punjabi
-https://zii.vishami3.repl.co/?c=0-9-ddpunjabi
-#EXTINF:-1 tvg-id="0-9-241" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-241/channel_web/1170x658withlog_1692640342",Zee Picchar
-https://zii.vishami3.repl.co/?c=0-9-241
-#EXTINF:-1 tvg-id="0-9-250" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-250/channel_web/1170x658withlogo436360213",DD National HD
-https://zii.vishami3.repl.co/?c=0-9-250
-#EXTINF:-1 tvg-id="0-9-322" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-322/channel_web/1170x658withlog_1602476580",Rengoni
-https://zii.vishami3.repl.co/?c=0-9-322
-#EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-24ghantatv/channel_web/1170x658withlogo_644392845",24 Ghanta
-https://zii.vishami3.repl.co/?c=0-9-24ghantatv
-#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebangla/channel_web/1170x658_310781121",Zee Bangla HD
-https://zii.vishami3.repl.co/?c=0-9-zeebangla
-#EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeebanglacinema/channel_web/1170x658withlog_1238879598",Zee Bangla Cinema
-https://zii.vishami3.repl.co/?c=0-9-zeebanglacinema
-#EXTINF:-1 tvg-id="0-9-channel_1144658965" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_1144658965/channel_web/1170x658withlog_1152304152",Sanskar TV
-https://zii.vishami3.repl.co/?c=0-9-channel_1144658965
-#EXTINF:-1 tvg-id="0-9-327" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-327/channel_web/1170x658withlog_2031259137",Shubh TV
-https://zii.vishami3.repl.co/?c=0-9-327
-#EXTINF:-1 tvg-id="0-9-channel_1565694979" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_1565694979/channel_web/1170x658withlogo_66703857",Satsang TV
-https://zii.vishami3.repl.co/?c=0-9-channel_1565694979
-#EXTINF:-1 tvg-id="0-9-divyatv" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-divyatv/channel_web/1170x658withlog_2128007300",Divya TV
-https://zii.vishami3.repl.co/?c=0-9-divyatv
-#EXTINF:-1 tvg-id="0-9-166" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-166/channel_web/1170x658withlogo_450865576",Krishna Vani
-https://zii.vishami3.repl.co/?c=0-9-166
-#EXTINF:-1 tvg-id="0-9-183" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-183/channel_web/1170x658withlog_1124442022",Hare Krsna
-https://zii.vishami3.repl.co/?c=0-9-183
-#EXTINF:-1 tvg-id="0-9-284" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-284/channel_web/1170x658withlogo_844800250",Sadhna TV
-https://zii.vishami3.repl.co/?c=0-9-284
-#EXTINF:-1 tvg-id="0-9-285" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-285/channel_web/1170x658withlog_1126976137",Ishwar  TV
-https://zii.vishami3.repl.co/?c=0-9-285
-#EXTINF:-1 tvg-id="0-9-316" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-316/channel_web/1170x658withlog_1836335736",Awakening
-https://zii.vishami3.repl.co/?c=0-9-316
-#EXTINF:-1 tvg-id="0-9-345" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-345/channel_web/1170x658withlogo_361016754",Ek Onkar
-https://zii.vishami3.repl.co/?c=0-9-345
-#EXTINF:-1 tvg-id="0-9-412" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-412/channel_web/1170x658_1626283630",Devam
-https://zii.vishami3.repl.co/?c=0-9-412
-#EXTINF:-1 tvg-id="0-9-wion" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-wion/channel_web/wionpalkisharmaupadhyay",WION
-https://zii.vishami3.repl.co/?c=0-9-wion
-#EXTINF:-1 tvg-id="0-9-273" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-273/channel_web/1170x658withlog_2139188797",News X
-https://zii.vishami3.repl.co/?c=0-9-273
-#EXTINF:-1 tvg-id="0-9-389" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-389/channel_web/1170x658_1189289223",Euro News
-https://zii.vishami3.repl.co/?c=0-9-389
-#EXTINF:-1 tvg-id="0-9-170" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/1170x658withlog_2090292605",News Nation
-https://zii.vishami3.repl.co/?c=0-9-170
-#EXTINF:-1 tvg-id="0-9-171" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-171/channel_web/1170x658withlogo_217868396",News State Uttar Pradesh Uttrakhand
-https://zii.vishami3.repl.co/?c=0-9-171
-#EXTINF:-1 tvg-id="0-9-172" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-172/channel_web/1170x658withlog_1325098382",News State Madhya Pradesh Chhattisgarh
-https://zii.vishami3.repl.co/?c=0-9-172
-#EXTINF:-1 tvg-id="0-9-260" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-260/channel_web/1170x658withlog_1673213675",TV9 Gujarati
-https://zii.vishami3.repl.co/?c=0-9-260
-#EXTINF:-1 tvg-id="0-9-zee24kalak" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zee24kalak/channel_web/1170x658withlog_1335796285",Zee 24 Kalak
-https://zii.vishami3.repl.co/?c=0-9-zee24kalak
-#EXTINF:-1 tvg-id="0-9-163" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-163/channel_web/1170x658withlogo_382762389",Shiksha TV
-https://zii.vishami3.repl.co/?c=0-9-163
-#EXTINF:-1 tvg-id="0-9-ddgirnar" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddgirnar/channel_web/1170x658withlog_1445842484",DD Girnar
-https://zii.vishami3.repl.co/?c=0-9-ddgirnar
-#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemahd/channel_web/1170x658withlogo_167952257",Zee Cinema HD
-https://zii.vishami3.repl.co/?c=0-9-zeecinemahd
-#EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-tvpictureshd/channel_web/1170x658withlog_1476130363",&Pictures HD
-https://zii.vishami3.repl.co/?c=0-9-tvpictureshd
-#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeanmolcinema/channel_web/1170x658withlog_1721007595",Zee Anmol Cinema
-https://zii.vishami3.repl.co/?c=0-9-zeeanmolcinema
-#EXTINF:-1 tvg-id="0-9-zeeclassic" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeclassic/channel_web/1170x658withlogo_218202605",Zee Bollywood
-https://zii.vishami3.repl.co/?c=0-9-zeeclassic
-#EXTINF:-1 tvg-id="0-9-zeecinema" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinema/channel_web/1170x658withlogo_807278654",Zee Cinema
-https://zii.vishami3.repl.co/?c=0-9-zeecinema
-#EXTINF:-1 tvg-id="0-9-pictures" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-pictures/channel_web/1170x658withlog_1269578414",&Pictures
-https://zii.vishami3.repl.co/?c=0-9-pictures
-#EXTINF:-1 tvg-id="0-9-zeeaction" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeaction/channel_web/1170x658withlog_1953200347",Zee Action
-https://zii.vishami3.repl.co/?c=0-9-zeeaction
-#EXTINF:-1 tvg-id="0-9-176" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-176/channel_web/1170x658withlogo_673971588",Zee Classic
-https://zii.vishami3.repl.co/?c=0-9-176
-#EXTINF:-1 tvg-id="0-9-170" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-170/channel_web/1170x658withlog_2090292605",News Nation
-https://zii.vishami3.repl.co/?c=0-9-170
-#EXTINF:-1 tvg-id="0-9-171" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-171/channel_web/1170x658withlogo_217868396",News State Uttar Pradesh Uttrakhand
-https://zii.vishami3.repl.co/?c=0-9-171
-#EXTINF:-1 tvg-id="0-9-172" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-172/channel_web/1170x658withlog_1325098382",News State Madhya Pradesh Chhattisgarh
-https://zii.vishami3.repl.co/?c=0-9-172
-#EXTINF:-1 tvg-id="0-9-163" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-163/channel_web/1170x658withlogo_382762389",Shiksha TV
-https://zii.vishami3.repl.co/?c=0-9-163
-#EXTINF:-1 tvg-id="0-9-259" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-259/channel_web/1170x658withlogo_382506495",TV9 Kannada
-https://zii.vishami3.repl.co/?c=0-9-259
-#EXTINF:-1 tvg-id="0-9-201" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-201/channel_web/1170x658withlog_1629853975",Suvarna News
-https://zii.vishami3.repl.co/?c=0-9-201
-#EXTINF:-1 tvg-id="0-9-zeekannada" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekannada/channel_web/1170x658_611455469",Zee Kannada HD
-https://zii.vishami3.repl.co/?c=0-9-zeekannada
-#EXTINF:-1 tvg-id="0-9-ddchandana" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddchandana/channel_web/1170x658withlogo_222569298",DD Chandana
-https://zii.vishami3.repl.co/?c=0-9-ddchandana
-#EXTINF:-1 tvg-id="0-9-227" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-227/channel_web/1170x658_1957432816",TV5 Kannada
-https://zii.vishami3.repl.co/?c=0-9-227
-#EXTINF:-1 tvg-id="0-9-241" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-241/channel_web/1170x658withlog_1692640342",Zee Picchar
-https://zii.vishami3.repl.co/?c=0-9-241
-#EXTINF:-1 tvg-id="0-9-356" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-356/channel_web/1170x658withlog_1495734600",News First
-https://zii.vishami3.repl.co/?c=0-9-356
-#EXTINF:-1 tvg-id="0-9-377" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-377/channel_web/1170x658withlog_1939892250",BTV
-https://zii.vishami3.repl.co/?c=0-9-377
-#EXTINF:-1 tvg-id="0-9-207" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-207/channel_web/09207e24_list",E24
-https://zii.vishami3.repl.co/?c=0-9-207
-#EXTINF:-1 tvg-id="0-9-348" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-348/channel_web/1170x658withlog2096037619",Zee Zest HD
-https://zii.vishami3.repl.co/?c=0-9-348
-#EXTINF:-1 tvg-id="0-9-271" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-271/channel_web/1170x658withlog_1625066572",Sugran TV
-https://zii.vishami3.repl.co/?c=0-9-271
-#EXTINF:-1 tvg-id="0-9-392" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-392/channel_web/1170x658_11759167",Fashion TV Mumbai
-https://zii.vishami3.repl.co/?c=0-9-392
-#EXTINF:-1 tvg-id="0-9-393" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-393/channel_web/1170x6581715566364",Fashion TV Paris
-https://zii.vishami3.repl.co/?c=0-9-393
-#EXTINF:-1 tvg-id="0-9-129" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-129/channel_web/1170x658withlogo_268830785",Zee Keralam HD
-https://zii.vishami3.repl.co/?c=0-9-129
-#EXTINF:-1 tvg-id="0-9-ddmalayalam" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddmalayalam/channel_web/1170x658withlog_1300475155",DD Malayalam
-https://zii.vishami3.repl.co/?c=0-9-ddmalayalam
-#EXTINF:-1 tvg-id="0-9-257" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-257/channel_web/1170x658withlog_1579827656",TV9 Marathi
-https://zii.vishami3.repl.co/?c=0-9-257
-#EXTINF:-1 tvg-id="0-9-270" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-270/channel_web/1170x658withlogo_688844399",Saam TV
-https://zii.vishami3.repl.co/?c=0-9-270
-#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeemarathi/channel_web/1170x658withlogo_551054149",Zee Marathi HD
-https://zii.vishami3.repl.co/?c=0-9-zeemarathi
-#EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeeyuva/channel_web/1170x658withlogo_361849131",Zee Yuva
-https://zii.vishami3.repl.co/?c=0-9-zeeyuva
-#EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetalkies/channel_web/1170x658_483062857",Zee Talkies HD
-https://zii.vishami3.repl.co/?c=0-9-zeetalkies
-#EXTINF:-1 tvg-id="0-9-134" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-134/channel_web/1170x658withlog_1510286564",9X Jhakaas
-https://zii.vishami3.repl.co/?c=0-9-134
-#EXTINF:-1 tvg-id="0-9-ddsahyadri" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddsahyadri/channel_web/1170x658withlog_1078376781",DD Sahyadri
-https://zii.vishami3.repl.co/?c=0-9-ddsahyadri
-#EXTINF:-1 tvg-id="0-9-271" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-271/channel_web/1170x658withlog_1625066572",Sugran TV
-https://zii.vishami3.repl.co/?c=0-9-271
-#EXTINF:-1 tvg-id="0-9-353" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-353/channel_web/1170x658withlog_1434429781",Zee Vajwa
-https://zii.vishami3.repl.co/?c=0-9-353
-#EXTINF:-1 tvg-id="0-9-zing" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zing/channel_web/1170x658withlogo895666865",Zing
-https://zii.vishami3.repl.co/?c=0-9-zing
-#EXTINF:-1 tvg-id="0-9-165" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-165/channel_web/1170x658withlog_1849594732",Boogle Bollywood
-https://zii.vishami3.repl.co/?c=0-9-165
-#EXTINF:-1 tvg-id="0-9-296" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-296/channel_web/1170x658_419268810",Non-stop EDM
-https://zii.vishami3.repl.co/?c=0-9-296
-#EXTINF:-1 tvg-id="0-9-353" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-353/channel_web/1170x658withlog1434429781",Zee Vajwa
-https://zii.vishami3.repl.co/?c=0-9-353
-#EXTINF:-1 tvg-id="0-9-zeekalinganews" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeekalinganews/channel_web/1170x658withlog_1893514287",Zee Odisha
-https://zii.vishami3.repl.co/?c=0-9-zeekalinganews
-#EXTINF:-1 tvg-id="0-9-ddodia" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddodia/channel_web/1170x658withlog_1372768736",DD Odia
-https://zii.vishami3.repl.co/?c=0-9-ddodia
-#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeepunjabharyanahima/channel_web/1170x658withlog_1111951312",Zee Punjab Haryana Himachal Pradesh
-https://zii.vishami3.repl.co/?c=0-9-zeepunjabharyanahima
-#EXTINF:-1 tvg-id="0-9-215" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-215/channel_web/1170x658withlog_1031170304",Zee Punjabi
-https://zii.vishami3.repl.co/?c=0-9-215
-#EXTINF:-1 tvg-id="0-9-chardiklatimetvtimet" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-chardiklatimetvtimet/channel_web/1170x658withlog_1413076946",Chardikla Time TV
-https://zii.vishami3.repl.co/?c=0-9-chardiklatimetvtimet
-#EXTINF:-1 tvg-id="0-9-132" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-132/channel_web/1170x658withlogo_790675165",9X Tashan
-https://zii.vishami3.repl.co/?c=0-9-132
-#EXTINF:-1 tvg-id="0-9-channel_2132977507" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-channel_2132977507/channel_web/1170x658withlog_1071598760",Alpha ETC Punjabi
-https://zii.vishami3.repl.co/?c=0-9-channel_2132977507
-#EXTINF:-1 tvg-id="0-9-ddpunjabi" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpunjabi/channel_web/1170x658withlog_1007647800",DD Punjabi
-https://zii.vishami3.repl.co/?c=0-9-ddpunjabi
-#EXTINF:-1 tvg-id="0-9-274" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-274/channel_web/1170x658withlogo_212610744",India News Punjabi Himachal
-https://zii.vishami3.repl.co/?c=0-9-274
-#EXTINF:-1 tvg-id="0-9-305" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-305/channel_web/1170x658withlogo_941446093",Living India
-https://zii.vishami3.repl.co/?c=0-9-305
-#EXTINF:-1 tvg-id="0-9-384" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-384/channel_web/1170x658_1283511414",Dainik Savera
-https://zii.vishami3.repl.co/?c=0-9-384
-#EXTINF:-1 tvg-id="0-9-388" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-388/channel_web/1170x658_290485787",Sanjhi Soch
-https://zii.vishami3.repl.co/?c=0-9-388
-#EXTINF:-1 tvg-id="0-9-306" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-306/channel_web/1170x658withlog_1787137922",Vendhar TV
-https://zii.vishami3.repl.co/?c=0-9-306
-#EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetamil/channel_web/1170x658_1250786368",Zee Tamil HD
-https://zii.vishami3.repl.co/?c=0-9-zeetamil
-#EXTINF:-1 tvg-id="0-9-makkaltv" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-makkaltv/channel_web/1170x658withlogo_579936187",Makkal TV
-https://zii.vishami3.repl.co/?c=0-9-makkaltv
-#EXTINF:-1 tvg-id="0-9-ddpodhigai" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-ddpodhigai/channel_web/1170x658withlog_1550486077",DD Podhigai
-https://zii.vishami3.repl.co/?c=0-9-ddpodhigai
-#EXTINF:-1 tvg-id="0-9-258" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-258/channel_web/1170x658withlogo_100879400",TV9 Telugu
-https://zii.vishami3.repl.co/?c=0-9-258
-#EXTINF:-1 tvg-id="0-9-zeetelugu" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeetelugu/channel_web/1170x658_593933473",Zee Telugu HD
-https://zii.vishami3.repl.co/?c=0-9-zeetelugu
-#EXTINF:-1 tvg-id="0-9-zeecinemalu" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-zeecinemalu/channel_web/1170x658_1642453232",Zee Cinemalu HD
-https://zii.vishami3.repl.co/?c=0-9-zeecinemalu
-#EXTINF:-1 tvg-id="0-9-355" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-355/channel_web/1170x658withlogo_719952414",ABN Andhra Jyothy
-https://zii.vishami3.repl.co/?c=0-9-355
-#EXTINF:-1 tvg-id="0-9-371" group-title="Zee5-Vishami" tvg-logo="https://akamaividz2.zee5.com/image/upload/resources/0-9-371/channel_web/1170x658withlogo_203787503",10TV
-https://zii.vishami3.repl.co/?c=0-9-371
+
+#EXTINF:-1 tvg-id="0-9-zing" group-title="Music" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zing/channel_list/1170x658withlogo895666865.png",Zing
+https://cflive-esports-hindi.zee5.com/out/v1/e318e95ed1974982a1c551ad388c17b0/Zing/index.m3u8
+#EXTINF:-1 tvg-id="0-9-348" group-title="Lifestyle" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-348/channel_list/1170x658withlog2096037619.png",Zee Zest HD
+https://cflive-esports-hindi.zee5.com/out/v1/72971de4739d4d22ab354200190dcb7a/Zee_Zest/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeyuva" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeeyuva/channel_list/1170x658withlogo361849131.png",Zee Yuva
+https://cflive-esports-hindi.zee5.com/out/v1/3c0df747b51e412998c91e2662541260/Zee_Yuva/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetvhd" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeetvhd/channel_list/1170x658withlog1554775145.png",Zee TV HD
+https://z5ak-live.zee5.com/out/v1/cce593a65918478ba0d0924b4a914993/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetv" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeetv/channel_list/1170x658withlogo200095097.png",Zee TV
+https://z5ak-live.zee5.com/out/v1/ea6fe7c79c6f494792e1ee846b4a5259/index.m3u8
+#EXTINF:-1 tvg-id="0-9-224" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-224/channel_list/1170x658withlogo334138193.png",Zee Thirai
+https://z5ak-live.zee5.com/out/v1/48fbba85dc7643df9a97fbf6c30cf6a3/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetelugu" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeetelugu/channel_list/1170x658withlogo383e4b53bf8f4558a0ac9ce2657ba342.png",Zee Telugu HD
+https://cflive-esports-english.zee5.com/out/v1/97e5f9c5e9e14e0db56aa12e013608f8/Zee_telugu/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetamil" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeetamil/channel_list/1170x6580c64b034b1f04766a39172f72eb97c77.png",Zee Tamil HD
+https://z5ak-live.zee5.com/out/v1/a6396a3fefc44e968bc2c175f8265932/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-zeetalkies" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeetalkies/channel_list/1170x658483062857.png",Zee Talkies HD
+https://cflive-esports-hindi.zee5.com/out/v1/4fabfa0f68704fc4b3b5c71d5b5f7d64/Zee_Talkies_HD/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-sarthaktv" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-sarthaktv/channel_list/1170x658withlog1150431941.png",Zee Sarthak
+https://cflive-esports-hindi.zee5.com/out/v1/066755cd921a4990b7064e1e484a4e71/Zee_Sarthak_SD/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeesalaam" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeesalaam/channel_list/zeesalaam1170007fc0a564444dd68d57bb1e95619dc2.png",Zee Salaam
+https://cflive-esports-english.zee5.com/out/v1/22f949211748455f9f432b79069ff4ec/Zee_Salaam/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeerajasthannews" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeerajasthannews/channel_list/zeerajasthannews117070864e8378604f6f85f263eaa5c30de0.png",Zee Rajasthan News
+https://z5ak-live.zee5.com/out/v1/c66a98927e294865a0540f466acbf58a/index.m3u8
+#EXTINF:-1 tvg-id="0-9-215" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-215/channel_list/1170x658withlog1031170304.png",Zee Punjabi
+https://cflive-esports-hindi.zee5.com/out/v1/12e37fb2f07e403fa0780818d7569fb8/Zee_Punjabi/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeepunjabharyanahima" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeepunjabharyanahima/channel_list/zphh1440b1f49d4ef55d411d86fc2f9a742f131f.png",Zee Punjab Haryana Himachal Pradesh
+https://z5ak-live.zee5.com/out/v1/fcb6bfe2bf3a4a49869f1862ab96c69a/index.m3u8
+#EXTINF:-1 tvg-id="0-9-241" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-241/channel_list/1170x658withlog1692640342.png",Zee Picchar
+https://z5ak-cmaflive.zee5.com/out/v1/0c7249ff3f8743adb98d6bdd9cef4cce/Zee_Pichhar/index.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_265145625" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-channel_265145625/channel_list/zeeupuk1170a3055f61b5744d459ffb15b9ba8f4ae6.png",Zee News Uttar Pradesh Uttrakhand
+https://z5ak-live.zee5.com/out/v1/43924ed1325c4882925dd982467557d7/index.m3u8
+#EXTINF:-1 tvg-id="0-9-9z583538" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-9z583538/channel_list/zeetelugu11702ca13626c6b34cfdb345bb6f26c59b84.png",Zee News Telugu
+https://news-live-cfgroup.zee5.com/out/v1/e26eac6c51b14f74a3468cb77ae4d9c4/index.m3u8
+#EXTINF:-1 tvg-id="0-9-9z583533" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-9z583533/channel_list/zeetamil117038a213551d724bf7824722ca693b24f0.png",ZEE News Tamil
+https://news-live-cfgroup.zee5.com/out/v1/95bd1df47cde437f8b9d9dbe1225bc42/index.m3u8
+#EXTINF:-1 tvg-id="0-9-9z583539" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-9z583539/channel_list/1170x658f0313dbfc3ef4c0c9c4619454829b2d3.png",ZEE News Malayalam
+https://news-live-cfgroup.zee5.com/out/v1/5b5835a33b9a49e4a159f667cad36710/index.m3u8
+#EXTINF:-1 tvg-id="0-9-9z583537" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-9z583537/channel_list/zeekannada1170d7c53739e37d42b3b5fe5ca095cd32f5.png",ZEE News Kannada
+https://news-live-cfgroup.zee5.com/out/v1/13c0f50f9a214f29a2dd230f80ff3fff/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeenews" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeenews/channel_list/zeenews1170ac3284dba03741678189cc933054cae9.png",Zee News
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/369dbd453ff740d49f4dc864a9f8a6b1/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeemarathi" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeemarathi/channel_list/1170x658withlogo551054149.png",Zee Marathi HD
+https://z5ak-live.zee5.com/out/v1/0fdfa734c4384e1ba1560116e79cc091/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-zeemadhyapradeshchat" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeemadhyapradeshchat/channel_list/zeemadhyapradeshchhattisgarh117010ad44a58982443fa31d4d943ec6bf5f.png",Zee Madhya Pradesh Chhattisgarh
+https://z5ak-live.zee5.com/out/v1/1b88371217e849a6b7a47780aea64a73/index.m3u8
+#EXTINF:-1 tvg-id="0-9-129" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-129/channel_list/1170x658withlogo268830785.png",Zee Keralam HD
+https://cflive-esports-english.zee5.com/out/v1/55ba172aa0b149a4afac497876c54b01/Zee_Keralam_HD/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-zeekannada" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeekannada/channel_list/zeekannada17089566f88c3ba4af2a1b7da91e8cf14f3.png",Zee Kannada HD
+https://z5ak-live.zee5.com/out/v1/963296f4eb44422ea236ba63f5d2f5bf/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-zeehindustan" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeehindustan/channel_list/zeehindustan1170028f3b4e3cab4ec78aff1f419ecc162b.png",Zee Hindustan
+https://cflive-esports-hindi.zee5.com/out/v1/d4f78bd8f7e44f7ab715a2af36bace37/Zee_Hindustan_SD/index.m3u8
+#EXTINF:-1 tvg-id="0-9-bigganga" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-bigganga/channel_list/1170x6581735687172.png",Zee Ganga
+https://cflive-esports-english.zee5.com/out/v1/a7004817cdfe4e2799f00508f0e0a002/Zee_Ganga/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeekalinganews" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeekalinganews/channel_list/zeedelhiharyana1170x658e8b7b3111f204117a0bcf3f8a1327e7b.png",Zee Delhi NCR Haryana
+https://z5ak-live.zee5.com/out/v1/8eb7c7f053e34a1ea0f6ec22ec99556d/index.m3u8
+#EXTINF:-1 tvg-id="0-9-176" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-176/channel_list/1170x658d4d3573a17f24dcdb86c0da75e7208e8.png",Zee Classic
+https://z5ak-cmaflive.zee5.com/out/v1/b3903918c21c45cbab649b3be8633d10/Zee_Classic/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinemalu" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemalu/channel_list/1170x6581642453232.png",Zee Cinemalu HD
+https://cflive-esports-hindi.zee5.com/out/v1/326675470d6041efb042fd43bca649d1/Zee_Cinemalu_HD/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinemahd" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinemahd/channel_list/1170x658withlogo167952257.png",Zee Cinema HD
+https://z5ak-live.zee5.com/out/v1/868b2e37af044379824cf25c0bb8a072/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecinema" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeecinema/channel_list/1170x658withlogo807278654.png",Zee Cinema
+https://z5ak-live.zee5.com/out/v1/14c290cdde854265b74f78b102f6ecd8/index.m3u8
+#EXTINF:-1 tvg-id="0-9-394" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-394/channel_list/1170x658717187404.png",Zee Chitramandir
+https://cflive-esports-hindi.zee5.com/out/v1/f02aaa0c84ae4a6f9bd493f075a7a846/Zee_Chitramandir_SD/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeecafehd" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeecafehd/channel_list/1170x658withlogo325698699.png",Zee Café HD
+https://cflive-esports-english.zee5.com/out/v1/9c4caac23c0f49f19a6049510f2d197f/Zee_Cafe_HD/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebusiness" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeebusiness/channel_list/zeebusiness11706be8289c3f1c4d2b8c58fa996f2fb72d.png",Zee Business
+https://z5ak-live.zee5.com/out/v1/7dcee573362e48908ab1b335d8780625/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeclassic" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeeclassic/channel_list/1170x658e6b59efbc9c5471f9392f477f91f0c11.png",Zee Bollywood
+https://cflive-esports-hindi.zee5.com/out/v1/640e5a500bbc4e41b440b1f529598689/Zee_Bollywood/index.m3u8
+#EXTINF:-1 tvg-id="0-9-216" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-216/channel_list/1170x658withlogo20909261.png",Zee Biskope
+https://cflive-esports-english.zee5.com/out/v1/76a263bf048246a6bbbd4c5bda1aa485/Zee_Biskope/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebiharjharkhand" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeebiharjharkhand/channel_list/zeebiharjharkhand1170e462a8825ca14c6bbdafc1ddcc334b16.png",Zee Bihar Jharkhand
+https://z5ak-live.zee5.com/out/v1/40774c5b4185404b828c7dd93e8e2eb1/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebangla" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeebangla/channel_list/1170x658310781121.png",Zee Bangla HD
+https://z5ak-live.zee5.com/out/v1/d8324c0719d94f1da229ccee9489f123/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-zeebanglacinema" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeebanglacinema/channel_list/1170x658withlog1238879598.png",Zee Bangla Cinema
+https://cflive-esports-english.zee5.com/out/v1/56c729f568d54dba9f418bf03cd203de/Zee_Bangla_Cinema_SD/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeanmolcinema" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmolcinema/channel_list/1170x658withlog1721007595.png",Zee Anmol Cinema
+https://cflive-esports-hindi.zee5.com/out/v1/46a7f027efbf430d982259b5f19cef4c/Zee_Anmol_Cinema/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeanmol" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeeanmol/channel_list/1170x658withlog1844143347.png",Zee Anmol
+https://z5ams2.akamaized.net/out/v1/6bcef04f1d0f4207b4c8f98525ccd37f/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zeeaction" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zeeaction/channel_list/1170x658withlog1953200347.png",Zee Action
+https://cflive-esports-english.zee5.com/out/v1/0eff84294c404cba82110513b979a2d7/Zee_Action/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zee24taas" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zee24taas/channel_list/zee24taas1170a1c3aee3d9fe49e1b67ecfca27597e6c.png",Zee 24 Taas
+https://z5ak-live.zee5.com/out/v1/915deae3b9024babbe4e35748e296d34/index.m3u8
+#EXTINF:-1 tvg-id="0-9-zee24kalak" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-zee24kalak/channel_list/zee24kalak1170c9b7a389394c4c1686aa833d81ba3da4.png",Zee 24 Kalak
+https://z5ak-live.zee5.com/out/v1/ba148160c26c463a8bdc21e9fb1d311d/index.m3u8
+#EXTINF:-1 tvg-id="0-9-wion" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-wion/channel_list/wion1170dbc3b563be6f40d18b77953ffd2c05e8.png",WION
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/f3bf04506e254324b199b4fdebddf02a/index.m3u8
+#EXTINF:-1 tvg-id="0-9-258" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-258/channel_list/tv9telugu1170555d6e19bc10437dace50a43817d407b.png",TV9 Telugu
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/b341a63663644cfab9b6f0ebb24ab5c5/index.m3u8
+#EXTINF:-1 tvg-id="0-9-257" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-257/channel_list/tv9marathi11706b03ecf435dc4ed4af0dd824e7cad4a4.png",TV9 Marathi
+https://news-live-cfgroup.zee5.com/out/v1/803c5971c4634cdfb4dcf682c1da5ce1/index.m3u8
+#EXTINF:-1 tvg-id="0-9-259" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-259/channel_list/tv9kannada117018d025c071144872b2e54c27fc64d929.png",TV9 Kannada
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/a9b5c3c666e940bb92d2a0a3c1131620/index.m3u8
+#EXTINF:-1 tvg-id="0-9-260" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-260/channel_list/tv9gujarati1170dcc1b05c9f194859babef4dbe74d434d.png",TV9 Gujarati
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/bb1604ed361e43b094f4913dd579b563/index.m3u8
+#EXTINF:-1 tvg-id="0-9-251" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-251/channel_list/tv9bharatvarsh1170bd539ee9bfd84d47ab9a8ef01e9a6cdf.png",TV9 Bharatvarsh
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/a4d6c601df89461d9ca297aca6579d3b/index.m3u8
+#EXTINF:-1 tvg-id="0-9-378" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-378/channel_list/tv9bangla11705d76b7bbbc9146e696628bdef5c0ba95.png",TV9 Bangla
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/4b922227db6e4f88b6b881a33d7e6b6a/index.m3u8
+#EXTINF:-1 tvg-id="0-9-9z583386" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-9z583386/channel_list/timesnownavbharat11705cdbe0d0681d492a956b1a68320cf5ca.png",Times Now Navbharat
+https://news-live-cfgroup.zee5.com/out/v1/db1ee303b17849a8a819b9e78ff125a5/index.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_1565694979" group-title="Devotional" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1565694979/channel_list/1170x658withlogo66703857.png",Satsang TV
+https://cflive-esports-hindi.zee5.com/out/v1/158623ca67534406adb5381649ce1bcc/Satsang-TV/index.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_1144658965" group-title="Devotional" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-channel_1144658965/channel_list/1170x658withlog1152304152.png",Sanskar TV
+https://cflive-esports-english.zee5.com/out/v1/667e3a9c791943148e31b02090c85866/Sanskar-TV/index.m3u8
+#EXTINF:-1 tvg-id="0-9-284" group-title="Devotional" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-284/channel_list/1170x658withlogo844800250.png",Sadhna TV
+https://cflive-esports-hindi.zee5.com/out/v1/e514a42b024746808a0de46182c35dd8/Sadhna_TV/index.m3u8
+#EXTINF:-1 tvg-id="0-9-206" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-206/channel_list/news241170a447f01046d346678b9dc8aa3e94aaf7.png",News24
+https://news-live-cfgroup.zee5.com/out/v1/6f2fcbe4a10a4da5ad9cead8290eaf41/index.m3u8
+#EXTINF:-1 tvg-id="0-9-273" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-273/channel_list/newsx11701d1e1ea5c0fa482f85a651304aa52183.png",News X
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/867ff1d4ac6241b780638af022f3bf82/index.m3u8
+#EXTINF:-1 tvg-id="0-9-171" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-171/channel_list/newsstateupuk11704b306acf821f4c2893b05884ca2f02cf.png",News State Uttar Pradesh Uttrakhand
+https://news-live-cfgroup.zee5.com/out/v1/80699b08b2aa488284da9a9dc39f1e7a/index.m3u8
+#EXTINF:-1 tvg-id="0-9-172" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-172/channel_list/newsstatempch1170ef9de68a49e4449bb8e3f2eb81268ce7.png",News State Madhya Pradesh Chhattisgarh
+https://news-live-cfgroup.zee5.com/out/v1/be515b6eb6c14cb8975ba04053e65129/index.m3u8
+#EXTINF:-1 tvg-id="0-9-170" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-170/channel_list/newsnation11704eeb7d44ec6645b4937362b58b25c97e.png",News Nation
+https://news-live-cfgroup.zee5.com/out/v1/6cdcb388ffd24160adf7ccf0161d251c/index.m3u8
+#EXTINF:-1 tvg-id="0-9-280" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-280/channel_list/nenews11709b9423ba23804690ba23f78217f10930.png",NE News
+https://news-live-cfgroup.zee5.com/out/v1/4da8e0336faa4be7b297a1c72f8aed0c/index.m3u8
+#EXTINF:-1 tvg-id="0-9-285" group-title="Devotional" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-285/channel_list/1170x658withlog1126976137.png",Ishwar  TV
+https://z5ak-cmaflive.zee5.com/out/v1/b16bca3be1f34ab39532fe720a83f113/Ishwar_Bhakti_TV/index.m3u8
+#EXTINF:-1 tvg-id="0-9-275" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-275/channel_list/indianewsupuk117081bc5dc3759640599d9e83e4a2240d60.png",India News UP
+https://news-live-cfgroup.zee5.com/out/v1/45709a235c974913bfcdb2ca3835be87/index.m3u8
+#EXTINF:-1 tvg-id="0-9-276" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-276/channel_list/indianewsrajasthan117092e3d1eda1774b3e99072278bd892b7b.png",India News Rajasthan
+https://news-live-cfgroup.zee5.com/out/v1/05549f6e64f849f1973ddc7bc959ddd7/index.m3u8
+#EXTINF:-1 tvg-id="0-9-274" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-274/channel_list/indianewspunjabhimachal117007ad58ab7deb4a558c3b48e4b1579d72.png",India News Punjabi Himachal
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/ba62fa886ea84964a3f04c85764689ad/index.m3u8
+#EXTINF:-1 tvg-id="0-9-277" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-277/channel_list/indianewsmp1170a53cd767de8d4937821260239b958ded.png",India News MP
+https://news-live-cfgroup.zee5.com/out/v1/62f740ad5e65473aacf0f293c7e1b46c/index.m3u8
+#EXTINF:-1 tvg-id="0-9-278" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-278/channel_list/indianewsharyana1170f12694b4a18646288c9ddbb3279c4527.png",India News Haryana
+https://news-live-cfgroup.zee5.com/out/v1/63069c9e97ee4d3b8b2149dac3c11aa0/index.m3u8
+#EXTINF:-1 tvg-id="0-9-279" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-279/channel_list/indianewsgujarat1170479364af267041a2b402e962e9e7fc5a.png",India News Gujarat
+https://news-live-cfgroup.zee5.com/out/v1/7f0580cb45e84d0684bdeca20a85b09d/index.m3u8
+#EXTINF:-1 tvg-id="0-9-272" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-272/channel_list/indianews11707d8a56b5b6c74b04a4987a5da8116ca3.png",India News
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/87a38cf955c24de8b303513b82dacb13/index.m3u8
+#EXTINF:-1 tvg-id="0-9-183" group-title="Devotional" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-183/channel_list/1170x658withlog1124442022.png",Hare Krsna
+https://z5ak-cmaflive.zee5.com/out/v1/984b903ce32d4452bdd68343b49ad46c/Hare_Krishna/index.m3u8
+#EXTINF:-1 tvg-id="0-9-207" group-title="Lifestyle" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-207/channel_list/e241440aef5cb4e7bf242b5be599298be7f5b2a4554686f4b1c4816b35a20cd38d2393a.png",E24
+https://z5ak-live.zee5.com/out/v1/78239452a9944713bf0dfd0946a55ad5/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddyadagiri" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddyadagiri/channel_list/ddyadagiri11705141805540104fcfbcc5cb0117dbbc91.png",DD Yadagiri
+https://news-live-cfgroup.zee5.com/out/v1/bf0124ac3c8b4c6b9ead83c51e59dc88/index.m3u8
+#EXTINF:-1 tvg-id="0-9-dduttarpradesh" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-dduttarpradesh/channel_list/1170x658withlog1445486903.png",DD Uttar Pradesh
+https://z5ak-live.zee5.com/out/v1/7564b38cfaad4d72b8b78514b6727073/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddurdu" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddurdu/channel_list/1170x658withlog1440959247.png",DD Urdu
+https://z5ak-live.zee5.com/out/v1/28e312160c0841f6ae9515ab0c2fe867/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddsahyadri" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddsahyadri/channel_list/1170x658withlog1078376781.png",DD Sahyadri
+https://z5ak-live.zee5.com/out/v1/7716224c7ffd42b49751bb4e4941353a/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddrajasthanjaipur" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddrajasthanjaipur/channel_list/1170x658withlog1491909175.png",DD Rajasthan
+https://z5ak-live.zee5.com/out/v1/fe6849f5791346d4b159bf42ace1766f/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddpunjabi" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddpunjabi/channel_list/1170x658withlog1007647800.png",DD Punjabi
+https://z5ak-live.zee5.com/out/v1/cb5ed335638a4363905eb459ae44e5fb/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddpodhigai" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddpodhigai/channel_list/1170x658withlog1550486077.png",DD Podhigai
+https://z5ak-live.zee5.com/out/v1/ebd010e02926495ca566c4b1810eb18c/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddodia" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddodia/channel_list/1170x658withlog1372768736.png",DD Odia
+https://z5ak-live.zee5.com/out/v1/2521f4e97c474e5fa5844365c5afab4a/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddnews" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddnews/channel_list/ddnews1170bf15f22e9be747cca66b2d7bcfc61c9e.png",DD News
+https://news-live-cfgroup.zee5.com/out/v1/bdc6d1b1846a4987a9e12eb12badd0d7/index.m3u8
+#EXTINF:-1 tvg-id="0-9-250" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-250/channel_list/1170x658withlogo436360213.png",DD National HD
+https://z5ak-live.zee5.com/out/v1/7954e514db98412bbaef9c0f3fdf86a6/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-ddmalayalam" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddmalayalam/channel_list/1170x658withlog1300475155.png",DD Malayalam
+https://z5ak-live.zee5.com/out/v1/50ca90ede1dc421ca67fe1392721587f/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddmadhyapradesh" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddmadhyapradesh/channel_list/1170x658withlog1218231157.png",DD Madhya Pradesh
+https://z5ak-live.zee5.com/out/v1/4e11869157864022a5981d4bd0182d3a/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddkisan" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddkisan/channel_list/ddkisan1170dd6893e0dd6d49c1aa725b8981c6ccdb.png",DD Kisan
+https://news-live-cfgroup.zee5.com/out/v1/343c9c05dc034981ae3fe7cb8b4e541e/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddindia" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddindia/channel_list/ddindia117008bf25b4685344e8b7aa770dc0217fc5.png",DD India
+https://news-live-cfgroup.zee5.com/out/v1/9d101bb63b6d48c3b06c3181baa8f65e/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddgirnar" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddgirnar/channel_list/1170x658withlog1445842484.png",DD Girnar
+https://z5ak-live.zee5.com/out/v1/80cf41be5f8d4bd2a9d34c33911fbfd2/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddchandana" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddchandana/channel_list/1170x658withlogo222569298.png",DD Chandana
+https://z5ak-live.zee5.com/out/v1/41d8dc739ff44e79808b19f4caef5f82/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddbihar" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddbihar/channel_list/1170x658withlog1865440648.png",DD Bihar
+https://z5ak-live.zee5.com/out/v1/c35546e8600541d38d0b03b18f9a2d6d/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddbharati" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddbharati/channel_list/1170x658withlog1749264623.png",DD Bharati
+https://z5ak-live.zee5.com/out/v1/03d04d1461114e9083d382ab0054ac2c/index.m3u8
+#EXTINF:-1 tvg-id="0-9-ddbangla" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-ddbangla/channel_list/1170x658withlog1242891543.png",DD Bangla
+https://z5ak-live.zee5.com/out/v1/2bd41787f3c54bbcbf92ba54190d9e40/index.m3u8
+#EXTINF:-1 tvg-id="0-9-165" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-165/channel_list/booglebollywood117092e013e968c0406fb352575935836116.png",Boogle Bollywood
+https://z5ak-live.zee5.com/out/v1/581a1234e00a444db4e6aae80e505872/index.m3u8
+#EXTINF:-1 tvg-id="0-9-bigmagic_1786965389" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-bigmagic_1786965389/channel_list/1170x658withlog2022520414.png",Big Magic
+https://cflive-esports-hindi.zee5.com/out/v1/96edae9dacb443dea87059953ba2c642/Big_Magic/index.m3u8
+#EXTINF:-1 tvg-id="0-9-24ghantatv" group-title="News" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-24ghantatv/channel_list/anchorbanners1170945b2bc00ff24acd9fd2d52aaafa0239.png",24 Ghanta
+https://zee5livemedia.zee5.com/v1/master/5c95b915ce5f89df583d7097ff7e9fdb77a6461e/LinearStream-SSAI-POC/out/v1/6737f9e33c8a4fed94b7fce2feeb9565/index.m3u8
+#EXTINF:-1 tvg-id="0-9-209" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-209/channel_list/1170x658withlogo358457080.png",&xplorHD
+https://cflive-esports-english.zee5.com/out/v1/d65715b71bd24bc2b4e36c24825e0375/And-XplorHD/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-tvhd_0" group-title="Entertainment" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-tvhd_0/channel_list/1170x658withlogo378606665.png",&TV HD
+https://z5ak-live.zee5.com/out/v1/539009ff9aa14551871ac709a4379a54/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-privéhd" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-privéhd/channel_list/1170x658withlogo375086496.png",&Prive HD
+https://cflive-esports-english.zee5.com/out/v1/a7644dc3b28a4e4ebbb4b494ba89c3a7/And_Prive_HD/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-tvpictureshd" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-tvpictureshd/channel_list/1170x658withlog1476130363.png",&Pictures HD
+https://z5ak-live.zee5.com/out/v1/ed48c44d019c4d8ab8f5de130dc5c1cd/index-connected.m3u8
+#EXTINF:-1 tvg-id="0-9-pictures" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-pictures/channel_list/1170x658withlog1269578414.png",&Pictures
+https://z5ak-live.zee5.com/out/v1/71a0b0bf0807495c82f6d462e1e1a39c/index.m3u8
+#EXTINF:-1 tvg-id="0-9-channel_2105335046" group-title="Movie" tvg-logo="https://akamaividz2.zee5.com/image/upload/w_223,h_125,c_scale,f_webp,q_auto:eco/resources/0-9-channel_2105335046/channel_list/1170x658379547401.png",&flix HD
+https://cflive-esports-english.zee5.com/out/v1/06a250d9346543ea9dec10fe67ce06d0/And_Flix_HD/index-connected.m3u8
