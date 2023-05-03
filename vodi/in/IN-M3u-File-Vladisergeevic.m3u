@@ -1,118 +1,54 @@
-#EXTINF:-1 tvg-id="" tvg-name="IN: &AMP; FLIX" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/and-flix-in.png" group-title="INDIA",&Flix Hindi
-http://parkpay.live:8080/overkill/dB2hBKSxdP/26543
-#EXTINF:-1 tvg-id="" tvg-name="IN: &AMP; PICTURES" tvg-logo="https://asiagrandiptv.us/logo//Lichtenstein.png" group-title="INDIA",&Pictures
-http://parkpay.live:8080/overkill/dB2hBKSxdP/14192
-#EXTINF:-1 tvg-id="" tvg-name="IN: &AMP;TV" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/and-tv-in.png" group-title="INDIA",&TV
-http://parkpay.live:8080/overkill/dB2hBKSxdP/26544
-#EXTINF:-1 tvg-id="" tvg-name="IN: CARTOON NETWORK" tvg-logo="https://asiagrandiptv.us/logo/cartoonnetwork.png" group-title="INDIA",Cartoon Network
-http://parkpay.live:8080/overkill/dB2hBKSxdP/14206
-#EXTINF:-1 tvg-id="" tvg-name="IN: CBEEBIES" tvg-logo="https://asiagrandiptv.us/logo/cbeebies.png" group-title="INDIA",CBEEBIES
-http://parkpay.live:8080/overkill/dB2hBKSxdP/235936
-#EXTINF:-1 tvg-id="" tvg-name="IN: SHEMAROO" tvg-logo="https://asiagrandiptv.us/logo//SHEMAROO.png" group-title="INDIA",IN: SHEMAROO
-http://parkpay.live:8080/overkill/dB2hBKSxdP/235998
-#EXTINF:-1 tvg-id="" tvg-name="IN: SHEMAROO TV" tvg-logo="https://asiagrandiptv.us/logo//SHEMAROOTV.png" group-title="INDIA",IN: SHEMAROO TV
-http://parkpay.live:8080/overkill/dB2hBKSxdP/235990
-#EXTINF:-1 tvg-id="" tvg-name="IN: SONIC NICKELODEON" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/nickelodeon-sonic-in.png" group-title="INDIA",IN: SONIC NICKELODEON
-http://parkpay.live:8080/overkill/dB2hBKSxdP/26912
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR BHARAT" tvg-logo="https://asiagrandiptv.us/logo//starbharat.png" group-title="INDIA",IN: STAR BHARAT
-http://parkpay.live:8080/overkill/dB2hBKSxdP/14280
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR GOLD" tvg-logo="https://asiagrandiptv.us/logo//stargold.png" group-title="INDIA",IN: STAR GOLD
-http://parkpay.live:8080/overkill/dB2hBKSxdP/14283
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR GOLD SELECT" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-gold-select-in.png" group-title="INDIA",IN: STAR GOLD SELECT
-http://parkpay.live:8080/overkill/dB2hBKSxdP/46544
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR MOVIES" tvg-logo="https://asiagrandiptv.us/logo//starmovies.png" group-title="INDIA",IN: STAR MOVIES
-http://parkpay.live:8080/overkill/dB2hBKSxdP/14379
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR PLUS" tvg-logo="https://asiagrandiptv.us/logo//starplus.png" group-title="INDIA",IN: STAR PLUS
-http://parkpay.live:8080/overkill/dB2hBKSxdP/14284
-#EXTINF:-1 tvg-ID="starbharat.in" tvg-name="HINDI -  STAR BHARAT HD ◉" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/STARBHARAT.png" group-title="ASIA| INDIA",HINDI -  STAR BHARAT HD ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63484
-#EXTINF:-1 tvg-ID="stargold.in" tvg-name="HINDI -  STAR GOLD HD ◉" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/STARGOLDSELECT.png" group-title="ASIA| INDIA",HINDI -  STAR GOLD HD ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63565
-#EXTINF:-1 tvg-ID="stargoldselect.in" tvg-name="HINDI -  STAR GOLD SELECT HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/STARGOLDSELECT.png" group-title="ASIA| INDIA",HINDI -  STAR GOLD SELECT HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63564
-#EXTINF:-1 tvg-ID="starplus.in" tvg-name="HINDI -  STAR PLUS HD ◉" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/STARPLUS.png" group-title="ASIA| INDIA",HINDI -  STAR PLUS HD ◉
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63563
-#EXTINF:-1 tvg-ID="starutsav.in" tvg-name="HINDI -  STAR UTSAV" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/STARUTSAV.png" group-title="ASIA| INDIA",HINDI -  STAR UTSAV
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63428
-#EXTINF:-1 tvg-ID="starutsavmovies.in" tvg-name="HINDI -  STAR UTSAV MOVIES" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/STARUTSAVMOVIES.png" group-title="ASIA| INDIA",HINDI -  STAR UTSAV MOVIES
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63376
-#EXTINF:-1 tvg-ID="bindass.in" tvg-name="HINDI -  BINDAS MOVIES" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/BINDASMOVIES.png" group-title="ASIA| INDIA",HINDI -  BINDAS MOVIES
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63306
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 3" tvg-logo="https://asiagrandiptv.us/logo//starsports3.png" group-title="INDIA",IN: STAR SPORTS 3
-http://parkpay.live:8080/overkill/dB2hBKSxdP/45427
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 1" tvg-logo="https://asiagrandiptv.us/logo//starsports1.png" group-title="INDIA",IN: STAR SPORTS 1
-http://parkpay.live:8080/overkill/dB2hBKSxdP/27151
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS 2" tvg-logo="https://asiagrandiptv.us/logo//STARSPORTS2.jpeg" group-title="INDIA",IN: STAR SPORTS 2
-http://parkpay.live:8080/overkill/dB2hBKSxdP/14289
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 1" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-select-1-in.png" group-title="INDIA",IN: STAR SPORTS SELECT 1
-http://parkpay.live:8080/overkill/dB2hBKSxdP/14865
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR SPORTS SELECT 2" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/star-sports-select-2-in.png" group-title="INDIA",IN: STAR SPORTS SELECT 2
-http://parkpay.live:8080/overkill/dB2hBKSxdP/14866
-#EXTINF:-1 tvg-id="" tvg-name="IN: STAR VIJAY" tvg-logo="https://asiagrandiptv.us/logo//starvijay.png" group-title="INDIA",IN: STAR VIJAY
-http://parkpay.live:8080/overkill/dB2hBKSxdP/14892
-#EXTINF:-1 tvg-id="" tvg-name="IN: STARS PORTS 2" tvg-logo="https://asiagrandiptv.us/logo/starsports2.png" group-title="INDIA",IN: STARS PORTS 2
-http://parkpay.live:8080/overkill/dB2hBKSxdP/46555
-#EXTINF:-1 tvg-id="" tvg-name="IN: UTV" tvg-logo="https://asiagrandiptv.us/logo/utv.png" group-title="INDIA",IN: UTV
-http://parkpay.live:8080/overkill/dB2hBKSxdP/14872
-#EXTINF:-1 tvg-id="" tvg-name="IN: UTV BINDASS" tvg-logo="https://asiagrandiptv.us/logo//UTVBINDASS.png" group-title="INDIA",IN: UTV BINDASS
-http://parkpay.live:8080/overkill/dB2hBKSxdP/27146
-#EXTINF:-1 tvg-id="" tvg-name="IN: UTV MOVIES" tvg-logo="https://asiagrandiptv.us/logo/utvmovies.png" group-title="INDIA",IN: UTV MOVIES
-http://parkpay.live:8080/overkill/dB2hBKSxdP/27145
-#EXTINF:-1 tvg-ID="utvaction.in" tvg-name="HINDI -  UTV ACTION" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/UTVACTION.png" group-title="ASIA| INDIA",HINDI -  UTV ACTION
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63305
-#EXTINF:-1 tvg-ID="utvaction.in" tvg-name="HINDI -  UTV HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/UTV.png" group-title="ASIA| INDIA",HINDI -  UTV HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63339
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE CINEMA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/zee-cinema-in.png" group-title="INDIA",IN: ZEE CINEMA
-http://parkpay.live:8080/overkill/dB2hBKSxdP/14301
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE CINEMA USA" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/zee-cinema-hd-in.png" group-title="INDIA",IN: ZEE CINEMA USA
-http://parkpay.live:8080/overkill/dB2hBKSxdP/46583
-#EXTINF:-1 tvg-ID="zeecinema.in" tvg-name="HINDI -  ZEE CINEMA HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/ZEECINEMA.png" group-title="ASIA| INDIA",HINDI -  ZEE CINEMA HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63581
-#EXTINF:-1 tvg-id="" tvg-name="IN: ZEE CLASSIC" tvg-logo="https://raw.githubusercontent.com/Tapiosinn/tv-logos/master/countries/india/zee-classic-in.png" group-title="INDIA",IN: ZEE CLASSIC
-http://parkpay.live:8080/overkill/dB2hBKSxdP/14305
-#EXTINF:-1 tvg-id="" tvg-name="IN: UTSAV BHARAT" tvg-logo="https://asiagrandiptv.us/logo/utsavbharat.png" group-title="INDIA",IN: UTSAV BHARAT
-http://parkpay.live:8080/overkill/dB2hBKSxdP/308555
-#EXTINF:-1 tvg-id="starplus.uk" tvg-name="IN: UTSAV PLUS" tvg-logo="https://asiagrandiptv.us/logo/utsavplus.png" group-title="INDIA",IN: UTSAV PLUS
-http://parkpay.live:8080/overkill/dB2hBKSxdP/7972
-#EXTINF:-1 tvg-ID="multiplex.in" tvg-name="HINDI -  MINIPLEX HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/MINIPLEX.png" group-title="ASIA| INDIA",HINDI -  MINIPLEX HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63572
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI -  MOVIES ACTIVE" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/MOVIESACTIVE.png" group-title="ASIA| INDIA",HINDI -  MOVIES ACTIVE
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63310
-#EXTINF:-1 tvg-ID="tataskybollywoodpremiere.in" tvg-name="HINDI -  TATA SKY BOLLYWOOD PREMIERE HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/TATASKYBOLLYWOODPREMIERE.png" group-title="ASIA| INDIA",HINDI -  TATA SKY BOLLYWOOD PREMIERE HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63340
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI -  MNX HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/MNXHD.png" group-title="ASIA| INDIA",HINDI -  MNX HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/112876
-#EXTINF:-1 tvg-ID="mnx2.in" tvg-name="ENGLISH -  MNX HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20ENGLISH/MNX.png" group-title="ASIA| ENGLISH",ENGLISH -  MNX HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63553
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI -  MOVIES NOW HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/MOVIESNOW.png" group-title="ASIA| INDIA",HINDI -  MOVIES NOW HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/112877
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI -  MN PLUS HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/INDIA/MNPLUSHD.png" group-title="ASIA| INDIA",HINDI -  MN PLUS HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/112878
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI -  DISNEY INTERNATIONAL HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/DISNEYINTERNATIONAL.png" group-title="ASIA| INDIA",HINDI -  DISNEY INTERNATIONAL HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/112879
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI -  CN PLUS HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/CNPLUS.png" group-title="ASIA| INDIA",HINDI -  CN PLUS HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/112881
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI -  BINDAS MOVIES" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/BINDASMOVIES.png" group-title="ASIA| INDIA",HINDI -  BINDAS MOVIES
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/112882
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI -  UTV MOVIES" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/UTV%20MOVIES.png" group-title="ASIA| INDIA",HINDI -  UTV MOVIES
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/112883
-#EXTINF:-1 tvg-ID="" tvg-name="HINDI -  DISNEY XD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20INDIA/DISNEYXD.png" group-title="ASIA| INDIA",HINDI -  DISNEY XD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/112884
-#EXTINF:-1 tvg-ID="hbo.in" tvg-name="ENGLISH -  HBO INDIA HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20ENGLISH/HBOINDIA.png" group-title="ASIA| ENGLISH",ENGLISH -  HBO INDIA HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63555
-#EXTINF:-1 tvg-ID="mnx2.in" tvg-name="ENGLISH -  MNX HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20ENGLISH/MNX.png" group-title="ASIA| ENGLISH",ENGLISH -  MNX HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63553
-#EXTINF:-1 tvg-ID="moviesok.in" tvg-name="ENGLISH -  MOVIES NOW HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20ENGLISH/MOVIESNOW.png" group-title="ASIA| ENGLISH",ENGLISH -  MOVIES NOW HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63552
-#EXTINF:-1 tvg-ID="starmovies.in" tvg-name="ENGLISH -  STAR MOVIES HD" tvg-logo="http://logourl.net/COBRALOGO/english2/english2/logo/starmovieshd.png" group-title="ASIA| ENGLISH",ENGLISH -  STAR MOVIES HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63511
-#EXTINF:-1 tvg-ID="starmoviesselect.in" tvg-name="ENGLISH -  STAR MOVIES SELECT HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20ENGLISH/STARMOVIESSELECT.png" group-title="ASIA| ENGLISH",ENGLISH -  STAR MOVIES SELECT HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63510
-#EXTINF:-1 tvg-ID="starworld.in" tvg-name="ENGLISH -  STAR WORLD HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20ENGLISH/STARWORLD.png" group-title="ASIA| ENGLISH",ENGLISH -  STAR WORLD HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63550
-#EXTINF:-1 tvg-ID="starpremiere.in" tvg-name="ENGLISH -  STAR WORLD PREMIER HD" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20ENGLISH/STAR%20WORLDPREMIER.png" group-title="ASIA| ENGLISH",ENGLISH -  STAR WORLD PREMIER HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63549
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH -  WARNER BROS" tvg-logo="http://logourl.net/COBRALOGO/ASIA%20ENGLISH/WARNERBROS.png" group-title="ASIA| ENGLISH",ENGLISH -  WARNER BROS
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/63313
-#EXTINF:-1 tvg-ID="" tvg-name="ENGLISH -  STAR MOVIES HD" tvg-logo="http://logourl.net/COBRALOGO/english2/english2/logo/starmovieshd.png" group-title="ASIA| ENGLISH",ENGLISH -  STAR MOVIES HD
-http://line.mytv-speed.com:80/TD1NUJZYOM/6IHBSRQYXG/143526
+#EXTINF:-1,IND - STAR MOVIES ACTION
+http://2hubs.ddns.net:25461/BabNour/telegrramm/58409
+#EXTINF:-1,IND - Star Gold UK
+http://2hubs.ddns.net:25461/BabNour/telegrramm/58450
+#EXTINF:-1,IND - &flix
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67082
+#EXTINF:-1,IND - &Pictures HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67083
+#EXTINF:-1,IND - &Prive HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67084
+#EXTINF:-1,IND - &TV HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67085
+#EXTINF:-1,IND - NAT GEO WILD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67181
+#EXTINF:-1,IND - STAR BHARAT 
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67231
+#EXTINF:-1,IND - STAR GOLD HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67232
+#EXTINF:-1,IND - STAR PLUS 
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67236
+#EXTINF:-1,IND - STAR MOVIES 
+http://2hubs.ddns.net:25461/BabNour/telegrramm/67281
+#EXTINF:-1,IND - STAR SPORTS 2 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/69844
+#EXTINF:-1,IND - STAR WORLD HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/69850
+#EXTINF:-1,IND - Utsav Plus HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/69853
+#EXTINF:-1,IND - STAR GOLD SELECT HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/71097
+#EXTINF:-1,IND - UTV BINDAS HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/71099
+#EXTINF:-1,IND - UTV HD (Movies)
+http://2hubs.ddns.net:25461/BabNour/telegrramm/71100
+#EXTINF:-1,IND - COLOR CINEPLEX HD (JIO)
+http://2hubs.ddns.net:25461/BabNour/telegrramm/71151
+#EXTINF:-1,IND - & Xplor
+http://2hubs.ddns.net:25461/BabNour/telegrramm/72876
+#EXTINF:-1,IND - MN+ HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/73019
+#EXTINF:-1,IND - MNX HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/73020
+#EXTINF:-1,IND - Rishtey CinePlex UK
+http://2hubs.ddns.net:25461/BabNour/telegrramm/58448
+#EXTINF:-1,IND - Star Movies Select
+http://2hubs.ddns.net:25461/BabNour/telegrramm/72599
+#EXTINF:-1,IND - Star Sports Select 1 HD
+http://2hubs.ddns.net:25461/BabNour/telegrramm/72905
+#EXTINF:-1,IND - Star Bharat UK
+http://2hubs.ddns.net:25461/BabNour/telegrramm/69440
+#EXTINF:-1,IND - Star Jalsha UK
+http://2hubs.ddns.net:25461/BabNour/telegrramm/69441
+#EXTINF:-1,IND - Star Plus UK
+http://2hubs.ddns.net:25461/BabNour/telegrramm/69442
